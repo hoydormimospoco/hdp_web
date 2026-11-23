@@ -22,10 +22,10 @@ El workflow consulta el RSS de iVoox **cada 6 horas**, y también al hacer push 
 
 ### Plataformas
 
-El RSS de iVoox aporta **enlaces individuales de iVoox** y archivos de audio, pero **no proporciona URLs individuales verificadas de Spotify, Apple Podcasts u otras plataformas**. Para añadir enlaces generales al podcast, completa `platforms` en `config.json` con direcciones reales, por ejemplo:
+El RSS de iVoox aporta **enlaces individuales de iVoox** y archivos de audio, pero **no proporciona URLs individuales verificadas de Spotify, Apple Podcasts u otras plataformas**. Los enlaces generales verificados a iVoox, YouTube, Spotify, Amazon Music, Apple Podcasts y Podimo ya están en `config.json`, junto con X y Bluesky. Para cambiar alguno, edita `platforms` o `social`, por ejemplo:
 
 ```json
-"platforms": {"Spotify": "https://open.spotify.com/show/URL_REAL"}
+"platforms": {"Spotify": "https://open.spotify.com/show/2UxggItJ39KHwQRCY6PCFi"}
 ```
 
 Los botones adicionales indicarán **“Podcast en Spotify”**, no fingirán llevar al episodio concreto. La ficha de cada programa incluye un enlace directo a su episodio de iVoox.
@@ -34,7 +34,7 @@ Los botones adicionales indicarán **“Podcast en Spotify”**, no fingirán ll
 
 La recomendación aleatoria nunca incluye temporadas 1, 2 o 3. Para seleccionar manualmente episodios recomendables, añade sus valores `id` (en `episodes.json`) a `featuredIds` en `config.json`. Solo se tendrán en cuenta si son de temporada 4+. `excludedRecommendationIds` permite excluir episodios concretos. `categoryOverrides` permite corregir la clasificación automática, p. ej. `"https://www.ivoox.com/182956021": "Cine"`.
 
-Las categorías son una **clasificación automática aproximada**, no etiquetas oficiales de iVoox; conviene revisar casos dudosos.
+Las categorías se determinan por el **tema principal del título**, no por palabras sueltas de las descripciones. Cada programa puede tener **varias etiquetas** (por ejemplo, un especial de cine y videojuegos). El buscador busca por título y etiquetas, sin distinguir tildes; la temporada y la temática se combinan. Los episodios no identificados se etiquetan **Otros** para evitar falsas clasificaciones. Para afinar una categoría usa `categoryOverrides`, con una etiqueta o un array, por ejemplo: `"https://www.ivoox.com/160469357": ["Cómic"]`. Los cambios se conservan en las siguientes actualizaciones.
 
 ## Probar en el ordenador
 

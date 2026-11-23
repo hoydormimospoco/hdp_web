@@ -7,13 +7,20 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 RSS='https://feeds.ivoox.com/feed_fg_f11530283_filtro_1.xml'
 NS={'itunes':'http://www.itunes.com/dtds/podcast-1.0.dtd'}
-def category(title,desc):
-    t=(title+' '+desc[:350]).lower()
-    if re.search(r'\b(manga|anime|cómic|comic|jojo|dragon ball|one piece|berserk)\b',t): return 'Cómic y anime'
-    if re.search(r'\b(videojuego|videojuegos|zelda|final fantasy|resident evil|silent hill|nintendo|playstation|steam|sega|metroid|souls|pokemon|pokémon)\b',t):return 'Videojuegos'
-    if re.search(r'\b(serie|series|temporada de|televisión|television)\b',t):return 'Series'
-    if re.search(r'\b(película|peliculas|películas|cine|director|evil dead|conan|star wars|alien|terminator)\b',t):return 'Cine'
-    return 'Otros'
+# Etiquetas editoriales: se basan en el TEMA del título, no en palabras
+# incidentales de las descripciones (que suelen mencionar otras disciplinas).
+# Un episodio puede pertenecer a varias categorías.
+TOPIC_RULES = {
+    'Cómic': [r'daredevil',r'plan editorial',r'panini',r'c[oó]mic',r'vi[ñn]etas',r'frank miller',r'neon club.*(nice house|powerbomb|arrowsmith|supergirl|superman|beta ray bill|death or glory|strange adventures|batman: caballero blanco|sheriff de babilonia|tortugas ninja|parker de darwyn|murder falcon|hay algo matando ni[ñn]os)',r'kosmik comics',r'batman y spawn',r'geoff',r'dcu',r'dc studios',r'marvel y dc'],
+    'Videojuegos': [r'videojueg',r'clair obscur',r'expedition 33',r'final fantasy',r'cyberpunk edgerunners',r'goty',r'monkey island',r'chocobo',r'gamer'],
+    'Series': [r'severance',r'andor',r'arcane',r'ahsoka',r'mandalorian',r'last of us',r'peripheral',r'anillos de poder',r'casa del drag[oó]n',r'she.hulk',r'sandman',r'pacificador',r'caballero luna',r'the boys t3',r'obi wan',r'series'],
+    'Cine': [r'evil dead',r'conan el b[aá]rbaro',r'shaun of the dead',r'zombies party',r'el protegido',r'the substance',r'la sustancia',r'matanza de texas',r'hereditary',r'armageddon',r'la princesa mononoke',r'american history x',r'guardianes de la galaxia',r'as bestas',r'gran lebowski',r'todo a la vez',r'seven$',r'el quinto elemento',r'doctor strange',r'el resplandor',r'predator',r'wakanda forever',r'cine',r'pel[ií]culas',r'oscars',r' nop$'],
+}
+def categories(title):
+    title=title.casefold()
+    tags=[name for name,patterns in TOPIC_RULES.items() if any(re.search(p,title) for p in patterns)]
+    return tags or ['Otros']
+
 def build(raw):
     root=ET.fromstring(raw);channel=root.find('channel'); out=[]
     for item in channel.findall('item'):
@@ -31,7 +38,7 @@ def build(raw):
         image=cover.get('href','') if cover is not None else ''
         if not image:image=channel.find('itunes:image',NS).get('href','')
         duration=item.findtext('itunes:duration',default='',namespaces=NS)
-        out.append({'id':guid,'title':title,'description':desc,'date':date,'season':season,'duration':duration,'image':image,'category':category(title,desc),'ivoox':link})
+        out.append({'id':guid,'title':title,'description':desc,'date':date,'season':season,'duration':duration,'image':image,'categories':categories(title),'category':categories(title)[0],'ivoox':link})
     out.sort(key=lambda e:e['date'],reverse=True)
     return out
 
