@@ -1,0 +1,18 @@
+{
+  "podcast": "https://www.ivoox.com/podcast-hoy-dormimos-poco_sq_f11530283_1.html",
+  "platforms": {
+    "iVoox": "https://www.ivoox.com/podcast-hoy-dormimos-poco_sq_f11530283_1.html",
+    "YouTube": "https://www.youtube.com/@HoyDormimosPoco",
+    "Spotify": "https://open.spotify.com/show/2UxggItJ39KHwQRCY6PCFi",
+    "Amazon Music": "https://music.amazon.es/podcasts/279f7f55-f958-4db5-88da-a32da71cb4ae/hoy-dormimos-poco",
+    "Apple Podcasts": "https://podcasts.apple.com/es/podcast/id1773167703",
+    "Podimo": "https://podimo.com/es/shows/hoy-dormimos-poco-2"
+  },
+  "social": {
+    "X": "https://x.com/hoydormimospoco",
+    "Bluesky": "https://bsky.app/profile/hoydormimospoco.bsky.social"
+  },
+  "categoryOverrides": {},
+  "featuredIds": [],
+  "excludedRecommendationIds": []
+}
