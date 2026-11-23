@@ -1,0 +1,16 @@
+ENTREGA UNIFICADA HDP — sustituye todos los cambios anteriores NO publicados.
+
+Copia estas rutas sobre el repositorio, conservando la estructura:
+index.html
+episodes.json
+data/catalogo-local.js
+assets/hero-hdp-qr.webp
+assets/qr-secreto.png
+assets/secreto-hdp.mp3
+secreto/index.html
+TODO.md
+
+No reemplaces config.json ni assets/logo-hdp.jpg.
+
+ATENCIÓN: esta imagen es una ilustración nueva de sustitución, no la foto original detrás del hombro (no está adjunta). El QR real conduce a https://hoydormimospoco.github.io/hdp_web/secreto/ y funcionará tras publicar.
+Las fichas muestran solo iVoox, Spotify y YouTube cuando hay URL y temporada >=4.
