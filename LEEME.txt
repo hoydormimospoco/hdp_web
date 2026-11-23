@@ -1,1 +1,3 @@
 Actualización acumulativa desde la entrega hdp-web-reparacion-real. Sustituye archivos respetando rutas. No incluye modificaciones al catálogo. Tarjetas destacadas: imagen completa sin recorte. Más allá de HdP: listado horizontal ampliable con imagen a la derecha.
+
+AJUSTES NUEVOS: portadas destacadas sin fondo gris; colaboraciones con imagen a la izquierda y fondo blanco unificado; logo Comicteca PNG transparente; texto actualizado.
