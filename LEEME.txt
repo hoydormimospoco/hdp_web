@@ -1,5 +1,12 @@
-ENTREGA COMPLETA ACUMULADA. Sustituye los ZIP anteriores.
-Copiar los archivos y carpetas en la raíz del repositorio respetando las rutas.
-No sobrescribir config.json ni assets/logo-hdp.jpg.
-Novedades: tarjetas del archivo sin extracto; fichas mantienen descripción y duración; tarjetas Más allá rediseñadas; logos de La Comicteca; enlaces al podcast y colaboración de Chiriflús.
-La web no se ha publicado automáticamente.
+REPARACIÓN DE LA MAQUETACIÓN — 23/11/2026
+
+Esta entrega sustituye todos los ZIP anteriores. Copia el contenido en la raíz del repositorio, respetando carpetas.
+
+- Tarjetas destacadas: se conserva el diseño completo anterior, sin cambios en su función feature().
+- Archivo: portada, categoría, título, fecha y botón Ver ficha; sin extractos.
+- Más allá de HdP: rótulo corregido y tarjetas horizontales equilibradas con logos.
+- La Comicteca: título negro, enlace a https://lacomicteca.com.
+- Chiriflús: enlace a colaboración y podcast.
+- Catálogo, Spotify, QR, audio y resto de archivos intactos.
+
+Si al abrir la web sigues viendo extractos en el archivo o MÁS ALLÁ DEL MICRO, estás visualizando un index.html antiguo o una versión en caché. Haz Ctrl+F5 y comprueba que has reemplazado index.html en la raíz.

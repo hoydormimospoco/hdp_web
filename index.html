@@ -41,6 +41,27 @@
 .beyond-content{padding:22px 25px 25px;display:flex;flex:1;flex-direction:column}.beyond-content h3{margin:8px 0}.beyond-content p{margin:0 0 22px}
 .beyond-actions{margin-top:auto;display:flex;flex-wrap:wrap;gap:10px 22px}.beyond-card .beyond-title-link,.beyond-card .beyond-title-link:visited{color:var(--ink)}.beyond-card .beyond-title-link:hover{color:var(--ink);text-decoration:underline}
 @media(max-width:580px){.beyond-visual{height:145px}.beyond-visual-chiriflus img{width:110px;height:110px}}
+
+/* REPARACIÓN 23/11: sólo tarjetas del ARCHIVO, no las destacadas. */
+#cards .card .info{min-height:0;padding:12px 4px 4px}
+#cards .card h3{margin:10px 0 22px}
+#cards .card .bottom{margin-top:auto;padding-top:0}
+#cards .card p{display:none!important}
+/* Más allá de HdP: dos tarjetas horizontales de igual altura. */
+#mas-alla .beyond-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+#mas-alla .beyond-card-new{display:grid;grid-template-columns:38% minmax(0,1fr);min-height:245px;padding:0;overflow:hidden;align-items:stretch}
+#mas-alla .beyond-visual{height:auto;min-height:245px;width:100%;padding:22px;display:flex;align-items:center;justify-content:center;background:#f4f1ed}
+#mas-alla .beyond-visual-chiriflus{background:#f4f1ed}
+#mas-alla .beyond-visual-chiriflus img{width:min(100%,180px);height:auto;aspect-ratio:1;object-fit:contain;box-shadow:none;border-radius:14px}
+#mas-alla .beyond-visual-comicteca{background:#fff}
+#mas-alla .beyond-visual-comicteca img{width:100%;height:auto;max-height:150px;object-fit:contain}
+#mas-alla .beyond-content{padding:23px 22px;min-width:0;display:flex;flex-direction:column;justify-content:center}
+#mas-alla .beyond-content h3{font:800 20px/1.3 Manrope;margin:10px 0}
+#mas-alla .beyond-content p{margin:0 0 20px}
+#mas-alla .beyond-actions{margin-top:auto;display:flex;flex-wrap:wrap;gap:8px 16px}
+#mas-alla .beyond-title-link,#mas-alla .beyond-title-link:visited{color:var(--ink)!important}
+@media(max-width:1050px){#mas-alla .beyond-grid{grid-template-columns:1fr}#mas-alla .beyond-card-new{grid-template-columns:190px minmax(0,1fr)}}
+@media(max-width:580px){#mas-alla .beyond-card-new{grid-template-columns:125px minmax(0,1fr);min-height:210px}#mas-alla .beyond-visual{min-height:210px;padding:10px}#mas-alla .beyond-content{padding:16px}#mas-alla .beyond-content h3{font-size:17px}#mas-alla .beyond-actions{gap:6px}}
 </style></head><body>
 <header><div class="wrap top"><a class="brand" href="#inicio"><img alt="Logo de Hoy Dormimos Poco" src="assets/logo-hdp.jpg"/><span><b>HOY DORMIMOS POCO</b><small>EL PODCAST</small></span></a><button class="menu-toggle" type="button" id="menu-toggle" aria-controls="site-nav" aria-expanded="false" aria-label="Abrir menú">☰</button><nav class="nav" id="site-nav" aria-label="Navegación principal"><a href="#inicio">Inicio</a><a href="#programas">Archivo de programas</a><a href="#escuchar">Dónde escucharnos</a><a href="#mas-alla">Más allá de HdP</a><a href="#contacto">Contacto</a></nav></div></header>
 <main class="wrap" id="inicio"><section class="hero"><div><div class="eyebrow">CINE · VIDEOJUEGOS · SERIES · CÓMIC</div><h1>Hoy Dormimos <em>Poco</em></h1><p>Somos tu podcast de confianza del universo friki.</p><p>No somos los mejores en lo que hacemos, pero sí los más idiotas. <strong>¡Bienvenidos al surrealismo ilustrado, bienvenidos a HdP!</strong></p><div class="actions"><a class="btn" href="#programas">Explorar programas ↓</a><a class="btn secondary" href="https://www.ivoox.com/podcast-hoy-dormimos-poco_sq_f11530283_1.html" rel="noopener" target="_blank">Escuchar en iVoox ↗</a></div></div><div class="hero-art hero-art-qr"><img alt="Fotografía original del equipo de Hoy Dormimos Poco" src="assets/foto-original-hdp.jpg"/></div></section>
@@ -50,13 +71,13 @@
 
 </main>
 <section class="section wrap" id="escuchar"><div class="section-heading"><div><div class="eyebrow">ESCUCHA HDP</div><h2>¿Dónde escuchar el podcast?</h2><p>Encuéntranos en tu plataforma favorita.</p></div></div><div class="platform-grid" id="listen-links"></div></section>
-<section class="section wrap" id="mas-alla"><div class="section-heading"><div><div class="eyebrow">MÁS ALLÁ DEL MICRO</div><h2>HdP más allá del podcast</h2><p>De vez en cuando tocamos hierba.</p></div></div>
+<section class="section wrap" id="mas-alla"><div class="section-heading"><div><div class="eyebrow">MÁS ALLÁ DE HDP</div><h2>HdP más allá del podcast</h2><p>De vez en cuando tocamos hierba.</p></div></div>
 <div class="beyond-grid beyond-grid-new">
 <article class="beyond-card beyond-card-new"><a class="beyond-visual beyond-visual-chiriflus" href="https://www.ivoox.com/8x04-tomando-chiriflus-con-scott-pilgrim-audios-mp3_rf_136163631_1.html" target="_blank" rel="noopener noreferrer" aria-label="Escuchar la colaboración con Tomando un Chiriflús"><img src="assets/chirflus.webp" alt="Ilustración de Tomando un Chiriflús" loading="lazy"/></a><div class="beyond-content"><div class="eyebrow">COLABORACIONES</div><h3>Tomando un Chiriflús</h3><p>Se volvieron locos y le prestaron un altavoz a la ultramemia.</p><div class="beyond-actions"><a href="https://www.ivoox.com/8x04-tomando-chiriflus-con-scott-pilgrim-audios-mp3_rf_136163631_1.html" target="_blank" rel="noopener noreferrer">Escuchar colaboración ↗</a><a href="https://www.ivoox.com/podcast-tomando-chiriflus_sq_f1182324_1.html" target="_blank" rel="noopener noreferrer">Su podcast ↗</a></div></div></article>
 <article class="beyond-card beyond-card-new"><a class="beyond-visual beyond-visual-comicteca" href="https://lacomicteca.com" target="_blank" rel="noopener noreferrer" aria-label="Visitar La Comicteca"><img src="assets/logo-comicteca-completo.png" alt="Logo completo de La Comicteca" loading="lazy"/></a><div class="beyond-content"><div class="eyebrow">SE VE QUE PODEMOS ESCRIBIR</div><h3><a class="beyond-title-link" href="https://lacomicteca.com" target="_blank" rel="noopener noreferrer">La Comicteca</a></h3><p>Nos han publicado alguna que otra reseña.</p><div class="beyond-actions"><a href="https://lacomicteca.com" target="_blank" rel="noopener noreferrer">Leer nuestras reseñas ↗</a></div></div></article>
 </div></section>
 <footer class="footer" id="contacto"><div class="wrap footer-inner"><div class="footer-identity"><strong>HdP · Hoy Dormimos Poco</strong><small>Bienvenidos al surrealismo ilustrado.</small></div><div class="footer-contact-compact"><a class="footer-email" href="mailto:hoydormimospoco@gmail.com" aria-label="Escribir a hoydormimospoco@gmail.com"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m3 6 9 7 9-7"/></svg><span>hoydormimospoco@gmail.com</span></a><div class="footer-social-compact" id="social-links"></div></div></div></footer>
-<dialog class="dialog" id="details"><button aria-label="Cerrar" class="close" id="close">×</button><div class="dialog-top"><img alt="Portada del programa" id="detail-img"/><div><div class="eyebrow">EPISODIO DE HDP</div><h2 id="detail-title"></h2><span class="meta" id="detail-meta"></span></div></div><p id="detail-desc"></p><div class="detail-listen"><h3>Escúchanos en</h3><p>iVoox abre este episodio directamente. Las demás plataformas abren el perfil de HdP.</p><div class="platform-grid" id="detail-links"></div></div></dialog>
+<dialog class="dialog" id="details"><button aria-label="Cerrar" class="close" id="close">×</button><div class="dialog-top"><img alt="Portada del programa" id="detail-img"/><div><div class="eyebrow">EPISODIO DE HDP</div><h2 id="detail-title"></h2><span class="meta" id="detail-meta"></span></div></div><p id="detail-desc"></p><div class="detail-listen"><h3>Escúchanos en</h3><p>Enlaces directos a este episodio en las plataformas disponibles.</p><div class="platform-grid" id="detail-links"></div></div></dialog>
 <script src="data/catalogo-local.js"></script>
 <script>
 const menuButton=document.getElementById('menu-toggle'),menuNav=document.getElementById('site-nav');
