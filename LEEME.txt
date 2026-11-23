@@ -1,12 +1,1 @@
-REPARACIÓN DE LA MAQUETACIÓN — 23/11/2026
-
-Esta entrega sustituye todos los ZIP anteriores. Copia el contenido en la raíz del repositorio, respetando carpetas.
-
-- Tarjetas destacadas: se conserva el diseño completo anterior, sin cambios en su función feature().
-- Archivo: portada, categoría, título, fecha y botón Ver ficha; sin extractos.
-- Más allá de HdP: rótulo corregido y tarjetas horizontales equilibradas con logos.
-- La Comicteca: título negro, enlace a https://lacomicteca.com.
-- Chiriflús: enlace a colaboración y podcast.
-- Catálogo, Spotify, QR, audio y resto de archivos intactos.
-
-Si al abrir la web sigues viendo extractos en el archivo o MÁS ALLÁ DEL MICRO, estás visualizando un index.html antiguo o una versión en caché. Haz Ctrl+F5 y comprueba que has reemplazado index.html en la raíz.
+Actualización acumulativa desde la entrega hdp-web-reparacion-real. Sustituye archivos respetando rutas. No incluye modificaciones al catálogo. Tarjetas destacadas: imagen completa sin recorte. Más allá de HdP: listado horizontal ampliable con imagen a la derecha.
