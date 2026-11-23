@@ -14,3 +14,5 @@ No reemplaces config.json ni assets/logo-hdp.jpg.
 
 ATENCIÓN: esta imagen es una ilustración nueva de sustitución, no la foto original detrás del hombro (no está adjunta). El QR real conduce a https://hoydormimospoco.github.io/hdp_web/secreto/ y funcionará tras publicar.
 Las fichas muestran solo iVoox, Spotify y YouTube cuando hay URL y temporada >=4.
+
+Actualización: foto original en portada sin QR añadido; página titulada HdP Easter Egg. QR independiente adjunto fuera del ZIP y en assets/qr-secreto.png.
