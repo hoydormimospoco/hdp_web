@@ -1,18 +1,5 @@
-ENTREGA UNIFICADA HDP — sustituye todos los cambios anteriores NO publicados.
-
-Copia estas rutas sobre el repositorio, conservando la estructura:
-index.html
-episodes.json
-data/catalogo-local.js
-assets/hero-hdp-qr.webp
-assets/qr-secreto.png
-assets/secreto-hdp.mp3
-secreto/index.html
-TODO.md
-
-No reemplaces config.json ni assets/logo-hdp.jpg.
-
-ATENCIÓN: esta imagen es una ilustración nueva de sustitución, no la foto original detrás del hombro (no está adjunta). El QR real conduce a https://hoydormimospoco.github.io/hdp_web/secreto/ y funcionará tras publicar.
-Las fichas muestran solo iVoox, Spotify y YouTube cuando hay URL y temporada >=4.
-
-Actualización: foto original en portada sin QR añadido; página titulada HdP Easter Egg. QR independiente adjunto fuera del ZIP y en assets/qr-secreto.png.
+ENTREGA COMPLETA ACUMULADA. Sustituye los ZIP anteriores.
+Copiar los archivos y carpetas en la raíz del repositorio respetando las rutas.
+No sobrescribir config.json ni assets/logo-hdp.jpg.
+Novedades: tarjetas del archivo sin extracto; fichas mantienen descripción y duración; tarjetas Más allá rediseñadas; logos de La Comicteca; enlaces al podcast y colaboración de Chiriflús.
+La web no se ha publicado automáticamente.
