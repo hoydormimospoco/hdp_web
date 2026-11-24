@@ -155,6 +155,14 @@ html[data-theme="dark"] header{background:#1c1e23}
 html[data-theme="dark"] .nav a{background:transparent;color:var(--ink)}
 html[data-theme="dark"] .nav a:hover{background:transparent;color:var(--red-dark)}
 @media(max-width:1050px){html[data-theme="dark"] .nav{background:#1c1e23}}
+/* Ajuste exclusivo móvil: selector compacto sin ancho mínimo nativo. */
+@media (max-width:580px){
+  .header-actions{flex:0 0 86px;min-width:0;margin-left:auto}
+  #theme-mode{display:block;box-sizing:border-box;width:86px;min-width:0;max-width:86px;flex:0 0 86px;padding:6px 1px;font-size:10px;letter-spacing:-.2px}
+  .brand{flex:1 1 auto;min-width:0}
+  .brand span{min-width:0}
+  .menu-toggle{flex-shrink:0}
+}
 </style></head><body>
 <header><div id="very-dark-note" class="very-dark-banner" hidden>El 29N, vota con cabeza. Te juegas tu futuro.</div><div class="wrap top"><a class="brand" href="#inicio"><img alt="Logo de Hoy Dormimos Poco" src="assets/logo-hdp.jpg"/><span><b>HOY DORMIMOS POCO</b><small id="brand-tagline">PEOR QUE EL DESCAMPAO, MEJOR QUE TELECINCO</small></span></a><div class="header-actions"><label class="theme-label" for="theme-mode">Modo</label><select id="theme-mode" class="theme-mode" aria-label="Modo de visualización"><option value="light">☀ Claro</option><option value="dark">☾ Oscuro</option><option value="very-dark">☠ MUY OSCURO</option></select></div><button class="menu-toggle" type="button" id="menu-toggle" aria-controls="site-nav" aria-expanded="false" aria-label="Abrir menú">☰</button><nav class="nav" id="site-nav" aria-label="Navegación principal"><a href="#inicio">Inicio</a><a href="#programas">Archivo de programas</a><a href="#escuchar">Dónde escucharnos</a><a href="#mas-alla">Más allá de HdP</a><a href="#contacto">Contacto</a></nav></div></header>
 <main class="wrap" id="inicio"><section class="hero"><div><div class="eyebrow">CINE · VIDEOJUEGOS · SERIES · CÓMIC</div><h1>Hoy Dormimos <em>Poco</em></h1><p>Somos tu podcast de confianza del universo friki.</p><p>No somos los mejores en lo que hacemos, pero sí los más idiotas. <strong>¡Bienvenidos al surrealismo ilustrado, bienvenidos a HdP!</strong></p><div class="actions"><a class="btn" href="#escuchar"><svg class="headphones-icon" viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 14v-3a9 9 0 0 1 18 0v3"/><rect x="2" y="13" width="4" height="8" rx="2"/><rect x="18" y="13" width="4" height="8" rx="2"/></svg>Escuchar el podcast</a><a class="btn secondary" href="#programas">Explorar programas</a></div></div><div class="hero-art hero-art-qr"><img alt="Fotografía original del equipo de Hoy Dormimos Poco" src="assets/foto-original-hdp.jpg"/></div></section>
