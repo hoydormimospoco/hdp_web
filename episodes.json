@@ -16,7 +16,9 @@
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/6x02-evil-dead-la-saga-original-audios-mp3_rf_182956021_1.html",
       "spotify": "https://open.spotify.com/episode/4ThYf8n4VU5XqIHImNJSSE",
-      "youtube": "https://youtu.be/anloecpmL6k"
+      "youtube": "https://youtu.be/anloecpmL6k",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/181010094",
@@ -32,7 +34,9 @@
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/6x01-conan-barbaro-audios-mp3_rf_181010094_1.html",
       "spotify": "https://open.spotify.com/episode/4kemzh5iyaJcU8aSyxrrOH",
-      "youtube": "https://youtu.be/-h_DbolQYRo"
+      "youtube": "https://youtu.be/-h_DbolQYRo",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/176663481",
@@ -48,7 +52,9 @@
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/5x09-shaun-of-the-dead-zombies-party-audios-mp3_rf_176663481_1.html",
       "spotify": "https://open.spotify.com/episode/6HrCKOKPsUWCGrNkQbJ1GY",
-      "youtube": "https://youtu.be/pzGIJEknp1k"
+      "youtube": "https://youtu.be/pzGIJEknp1k",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/174474154",
@@ -64,7 +70,9 @@
       "category": "Series",
       "ivoox": "https://www.ivoox.com/5x08-severance-temporada-2-audios-mp3_rf_174474154_1.html",
       "spotify": "https://open.spotify.com/episode/5MjKnesE0gSqRMImgD8ofw",
-      "youtube": "https://youtu.be/xb4Nn4Pg7hI"
+      "youtube": "https://youtu.be/xb4Nn4Pg7hI",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/170790512",
@@ -75,11 +83,13 @@
       "duration": "02:25:37",
       "image": "https://static-1.ivoox.com/audios/d/f/8/f/df8f9af028d33ca3d7b5dadd917e21b5_XXL.jpg",
       "categories": [
-        "Otros"
+        "Libros"
       ],
-      "category": "Otros",
+      "category": "Libros",
       "ivoox": "https://www.ivoox.com/5x07-la-guerra-salamandras-audios-mp3_rf_170790512_1.html",
-      "spotify": "https://open.spotify.com/episode/03Cgu3ufKcdiZcwhV906wg"
+      "spotify": "https://open.spotify.com/episode/03Cgu3ufKcdiZcwhV906wg",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/168870239",
@@ -95,7 +105,9 @@
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/5x06-plan-editorial-panini-2026-marvel-y-audios-mp3_rf_168870239_1.html",
       "spotify": "https://open.spotify.com/episode/2UyLsErqWKeuXxeIzdn5wU",
-      "youtube": "https://youtu.be/baLoYvwjEBE"
+      "youtube": "https://youtu.be/baLoYvwjEBE",
+      "historicalSection": null,
+      "programType": "Plan editorial"
     },
     {
       "id": "https://www.ivoox.com/167210783",
@@ -106,12 +118,17 @@
       "duration": "02:25:53",
       "image": "https://static-2.ivoox.com/audios/7/3/d/c/73dc5f0ec291a259ff33ed51d00f0240_XXL.jpg",
       "categories": [
-        "Otros"
+        "Cine",
+        "Series",
+        "Cómic",
+        "Videojuegos"
       ],
-      "category": "Otros",
+      "category": "Cine",
       "ivoox": "https://www.ivoox.com/5x05-lo-mejor-de-2025-audios-mp3_rf_167210783_1.html",
       "spotify": "https://open.spotify.com/episode/54bxOYlQh9HIPiNRnDS1m9",
-      "youtube": "https://youtu.be/mAJo5OJN9T8"
+      "youtube": "https://youtu.be/mAJo5OJN9T8",
+      "historicalSection": null,
+      "programType": "Lo mejor del año"
     },
     {
       "id": "https://www.ivoox.com/164867393",
@@ -127,7 +144,9 @@
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/5x04-el-protegido-audios-mp3_rf_164867393_1.html",
       "spotify": "https://open.spotify.com/episode/5IV6TfAIt9BEEJ4nVLCB3R",
-      "youtube": "https://youtu.be/jdYy_NWX2V0"
+      "youtube": "https://youtu.be/jdYy_NWX2V0",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/162992678",
@@ -143,7 +162,9 @@
       "category": "Videojuegos",
       "ivoox": "https://www.ivoox.com/5x03-clair-obscur-expedition-33-audios-mp3_rf_162992678_1.html",
       "spotify": "https://open.spotify.com/episode/1IhYhBU4vEMEqVfMQkMFya",
-      "youtube": "https://youtu.be/SBvJoSWxQdA"
+      "youtube": "https://youtu.be/SBvJoSWxQdA",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/160469357",
@@ -159,7 +180,9 @@
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/5x02-daredevil-frank-miller-audios-mp3_rf_160469357_1.html",
       "spotify": "https://open.spotify.com/episode/57du7wbzCLdMMt1U0o61zi",
-      "youtube": "https://youtu.be/5-jBQzdLuHM"
+      "youtube": "https://youtu.be/5-jBQzdLuHM",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/157794958",
@@ -175,7 +198,9 @@
       "category": "Series",
       "ivoox": "https://www.ivoox.com/5x01-andor-t2-audios-mp3_rf_157794958_1.html",
       "spotify": "https://open.spotify.com/episode/1KAllzICvMAnXVcQm14EFt",
-      "youtube": "https://youtu.be/8XeipwF3m8w"
+      "youtube": "https://youtu.be/8XeipwF3m8w",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/153763926",
@@ -190,7 +215,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/4x09-arcane-t2-audios-mp3_rf_153763926_1.html",
-      "spotify": "https://open.spotify.com/episode/0f0wxGLvUNBuE94VFKOZv3"
+      "spotify": "https://open.spotify.com/episode/0f0wxGLvUNBuE94VFKOZv3",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/148666910",
@@ -205,7 +232,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/4x08-arcane-t1-audios-mp3_rf_148666910_1.html",
-      "spotify": "https://open.spotify.com/episode/6oGrBSyvwDHWNwEZfkhF0z"
+      "spotify": "https://open.spotify.com/episode/6oGrBSyvwDHWNwEZfkhF0z",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/146517350",
@@ -220,7 +249,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/4x07-plan-editorial-panini-dc-2025-audios-mp3_rf_146517350_1.html",
-      "spotify": "https://open.spotify.com/episode/6cMPSgKz8AqZiQVbTOJzXK"
+      "spotify": "https://open.spotify.com/episode/6cMPSgKz8AqZiQVbTOJzXK",
+      "historicalSection": null,
+      "programType": "Plan editorial"
     },
     {
       "id": "https://www.ivoox.com/141334472",
@@ -235,7 +266,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/4x06-the-substance-la-sustancia-audios-mp3_rf_141334472_1.html",
-      "spotify": "https://open.spotify.com/episode/3BzMCFBZVhNEuWu5cWokrL"
+      "spotify": "https://open.spotify.com/episode/3BzMCFBZVhNEuWu5cWokrL",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/139430547",
@@ -250,7 +283,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/4x05-plan-editorial-panini-marvel-2025-y-audios-mp3_rf_139430547_1.html",
-      "spotify": "https://open.spotify.com/episode/3yKRtR77S2FKhrCaYAl8ck"
+      "spotify": "https://open.spotify.com/episode/3yKRtR77S2FKhrCaYAl8ck",
+      "historicalSection": null,
+      "programType": "Plan editorial"
     },
     {
       "id": "https://www.ivoox.com/137957799",
@@ -266,7 +301,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/4x04-pulsiones-anuales-2024-series-comics-audios-mp3_rf_137957799_1.html",
-      "spotify": "https://open.spotify.com/episode/4DbMnzuGolSEgG7iIHRGDt"
+      "spotify": "https://open.spotify.com/episode/4DbMnzuGolSEgG7iIHRGDt",
+      "historicalSection": null,
+      "programType": "Lo mejor del año"
     },
     {
       "id": "https://www.ivoox.com/137455089",
@@ -282,7 +319,9 @@
       ],
       "category": "Videojuegos",
       "ivoox": "https://www.ivoox.com/4x03-pulsiones-anuales-2024-peliculas-videojuegos-audios-mp3_rf_137455089_1.html",
-      "spotify": "https://open.spotify.com/episode/4qj5KFgHXYinURlBw7Zk2x"
+      "spotify": "https://open.spotify.com/episode/4qj5KFgHXYinURlBw7Zk2x",
+      "historicalSection": null,
+      "programType": "Lo mejor del año"
     },
     {
       "id": "https://www.ivoox.com/136303669",
@@ -297,7 +336,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/4x02-la-matanza-de-texas-audios-mp3_rf_136303669_1.html",
-      "spotify": "https://open.spotify.com/episode/1YyTgUBYxDbzGmoUQLAMOb"
+      "spotify": "https://open.spotify.com/episode/1YyTgUBYxDbzGmoUQLAMOb",
+      "historicalSection": null,
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/135250875",
@@ -312,7 +353,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/4x01-hdp-born-again-audios-mp3_rf_135250875_1.html",
-      "spotify": "https://open.spotify.com/episode/09e1w5doCQQgn65qwxLWPk"
+      "spotify": "https://open.spotify.com/episode/09e1w5doCQQgn65qwxLWPk",
+      "historicalSection": null,
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/134334920",
@@ -327,7 +370,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x16-este-duo-empieza-audios-mp3_rf_134334920_1.html",
-      "spotify": "https://open.spotify.com/episode/4uyHBCgqg89xfrE34Kjp8G"
+      "spotify": "https://open.spotify.com/episode/4uyHBCgqg89xfrE34Kjp8G",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/134334919",
@@ -342,7 +387,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-3x11-the-nice-house-on-audios-mp3_rf_134334919_1.html",
-      "spotify": "https://open.spotify.com/episode/2NJ9jjb9VMLzfyVnsXYA99"
+      "spotify": "https://open.spotify.com/episode/2NJ9jjb9VMLzfyVnsXYA99",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/134334775",
@@ -357,7 +404,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x15-tenipool-vs-yzquierverine-audios-mp3_rf_134334775_1.html",
-      "spotify": "https://open.spotify.com/episode/0cFvkvAr9EJglG43f7T1EC"
+      "spotify": "https://open.spotify.com/episode/0cFvkvAr9EJglG43f7T1EC",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/134334709",
@@ -372,7 +421,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-3x10-do-a-powerbomb-audios-mp3_rf_134334709_1.html",
-      "spotify": "https://open.spotify.com/episode/5TAc4Xz2x7L43CvxigWkor"
+      "spotify": "https://open.spotify.com/episode/5TAc4Xz2x7L43CvxigWkor",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/134334524",
@@ -387,7 +438,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x14-the-uncanny-team-ups-audios-mp3_rf_134334524_1.html",
-      "spotify": "https://open.spotify.com/episode/0anY2VFHFFfvMjX0SUC64V"
+      "spotify": "https://open.spotify.com/episode/0anY2VFHFFfvMjX0SUC64V",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/134334347",
@@ -403,7 +456,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/pulsiones-anuales-2023-cine-series-audios-mp3_rf_134334347_1.html",
-      "spotify": "https://open.spotify.com/episode/4vfBfNjQWeRVNvzBl90eSA"
+      "spotify": "https://open.spotify.com/episode/4vfBfNjQWeRVNvzBl90eSA",
+      "historicalSection": "Pulsiones Anuales",
+      "programType": "Lo mejor del año"
     },
     {
       "id": "https://www.ivoox.com/134334162",
@@ -418,7 +473,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/hdp-special-3x03-avance-plan-editorial-panini-audios-mp3_rf_134334162_1.html",
-      "spotify": "https://open.spotify.com/episode/2P4yLHo1oElxn6H7pw1Hdc"
+      "spotify": "https://open.spotify.com/episode/2P4yLHo1oElxn6H7pw1Hdc",
+      "historicalSection": "HdP Special",
+      "programType": "Plan editorial"
     },
     {
       "id": "https://www.ivoox.com/134334055",
@@ -433,7 +490,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x13-la-resaca-interminable-audios-mp3_rf_134334055_1.html",
-      "spotify": "https://open.spotify.com/episode/18Jav8OoJJk4Z7aENJ3CPl"
+      "spotify": "https://open.spotify.com/episode/18Jav8OoJJk4Z7aENJ3CPl",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/134333989",
@@ -449,7 +508,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/pulsiones-anuales-2023-comics-videojuegos-audios-mp3_rf_134333989_1.html",
-      "spotify": "https://open.spotify.com/episode/04IlDcCZ4EcyYmG4Nlra7J"
+      "spotify": "https://open.spotify.com/episode/04IlDcCZ4EcyYmG4Nlra7J",
+      "historicalSection": "Pulsiones Anuales",
+      "programType": "Lo mejor del año"
     },
     {
       "id": "https://www.ivoox.com/134333967",
@@ -464,7 +525,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-3x09-armageddon-audios-mp3_rf_134333967_1.html",
-      "spotify": "https://open.spotify.com/episode/3hytAuEQNxBptus4zZN4HP"
+      "spotify": "https://open.spotify.com/episode/3hytAuEQNxBptus4zZN4HP",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/134333632",
@@ -475,11 +538,13 @@
       "duration": "01:27:49",
       "image": "https://static-2.ivoox.com/audios/7/5/2/2/7522082a1ffe77d03179f0289da63821_XXL.jpg",
       "categories": [
-        "Videojuegos"
+        "Otros"
       ],
-      "category": "Videojuegos",
+      "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x12-los-goty-la-audios-mp3_rf_134333632_1.html",
-      "spotify": "https://open.spotify.com/episode/2vTmABgnrleqJGp8r06X84"
+      "spotify": "https://open.spotify.com/episode/2vTmABgnrleqJGp8r06X84",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/134333221",
@@ -494,7 +559,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x11-findes-del-futuro-audios-mp3_rf_134333221_1.html",
-      "spotify": "https://open.spotify.com/episode/7ErS7lTCcuhSZcKLqYnTAJ"
+      "spotify": "https://open.spotify.com/episode/7ErS7lTCcuhSZcKLqYnTAJ",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/134333134",
@@ -509,7 +576,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x10-el-cybermonday-de-audios-mp3_rf_134333134_1.html",
-      "spotify": "https://open.spotify.com/episode/30y3xmjup4UM2QBDxeMm1z"
+      "spotify": "https://open.spotify.com/episode/30y3xmjup4UM2QBDxeMm1z",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/120038939",
@@ -524,7 +593,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-3x08-arrowsmith-audios-mp3_rf_120038939_1.html",
-      "spotify": "https://open.spotify.com/episode/7J0M9gOp0KvDKXKGoRF7U4"
+      "spotify": "https://open.spotify.com/episode/7J0M9gOp0KvDKXKGoRF7U4",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/119768922",
@@ -539,7 +610,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x09-de-fruteros-y-audios-mp3_rf_119768922_1.html",
-      "spotify": "https://open.spotify.com/episode/3e4IBkmukhGkSFIkNqPkxC"
+      "spotify": "https://open.spotify.com/episode/3e4IBkmukhGkSFIkNqPkxC",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/119659909",
@@ -554,7 +627,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-3x07-la-princesa-mononoke-audios-mp3_rf_119659909_1.html",
-      "spotify": "https://open.spotify.com/episode/0ZQV8ciZ3qMBgVjML3oxsm"
+      "spotify": "https://open.spotify.com/episode/0ZQV8ciZ3qMBgVjML3oxsm",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/119392951",
@@ -569,7 +644,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x08-de-pop-audios-mp3_rf_119392951_1.html",
-      "spotify": "https://open.spotify.com/episode/11rFpL1kFuiUKLroi8QC4n"
+      "spotify": "https://open.spotify.com/episode/11rFpL1kFuiUKLroi8QC4n",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/119018527",
@@ -584,7 +661,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x07-el-coche-de-audios-mp3_rf_119018527_1.html",
-      "spotify": "https://open.spotify.com/episode/6z1QjpqmmTLoeomWzvCYUC"
+      "spotify": "https://open.spotify.com/episode/6z1QjpqmmTLoeomWzvCYUC",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/118911368",
@@ -599,7 +678,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-3x06-supergirl-la-mujer-del-audios-mp3_rf_118911368_1.html",
-      "spotify": "https://open.spotify.com/episode/1aySfcvzGCnSDz9fIyoC52"
+      "spotify": "https://open.spotify.com/episode/1aySfcvzGCnSDz9fIyoC52",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/118630467",
@@ -610,11 +691,13 @@
       "duration": "59:28",
       "image": "https://static-1.ivoox.com/audios/8/1/8/4/818416ea320b4f2bf906d08f8091ceb8_XXL.jpg",
       "categories": [
-        "Cómic"
+        "Otros"
       ],
-      "category": "Cómic",
+      "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x06-la-clavadita-anual-audios-mp3_rf_118630467_1.html",
-      "spotify": "https://open.spotify.com/episode/5eB2YBZIQV220NKkGix0rW"
+      "spotify": "https://open.spotify.com/episode/5eB2YBZIQV220NKkGix0rW",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/118517709",
@@ -629,7 +712,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-3x05-hereditary-audios-mp3_rf_118517709_1.html",
-      "spotify": "https://open.spotify.com/episode/6wMXy6cO9zYTlhdyO1KNqh"
+      "spotify": "https://open.spotify.com/episode/6wMXy6cO9zYTlhdyO1KNqh",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/118411076",
@@ -640,11 +725,13 @@
       "duration": "01:14:41",
       "image": "https://static-1.ivoox.com/audios/8/8/0/3/8803758ffd959cc69d2f58565cbae31b_XXL.jpg",
       "categories": [
-        "Otros"
+        "Libros"
       ],
-      "category": "Otros",
+      "category": "Libros",
       "ivoox": "https://www.ivoox.com/hdp-special-3x02-aqui-estoy-porque-he-audios-mp3_rf_118411076_1.html",
-      "spotify": "https://open.spotify.com/episode/2MExJXvI0HRck7PHH6WH9J"
+      "spotify": "https://open.spotify.com/episode/2MExJXvI0HRck7PHH6WH9J",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/118240455",
@@ -659,7 +746,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x05-entre-huelguistas-y-audios-mp3_rf_118240455_1.html",
-      "spotify": "https://open.spotify.com/episode/1lV7DViLM6ISgSEWYb5zlW"
+      "spotify": "https://open.spotify.com/episode/1lV7DViLM6ISgSEWYb5zlW",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/118122844",
@@ -674,7 +763,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/neon-club-3x04-ahsoka-audios-mp3_rf_118122844_1.html",
-      "spotify": "https://open.spotify.com/episode/1sQK0vAei5qaBrspjetUDt"
+      "spotify": "https://open.spotify.com/episode/1sQK0vAei5qaBrspjetUDt",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/117853402",
@@ -689,7 +780,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x04-futon-is-back-audios-mp3_rf_117853402_1.html",
-      "spotify": "https://open.spotify.com/episode/2teCHCqQAoGLVcydpVK8UR"
+      "spotify": "https://open.spotify.com/episode/2teCHCqQAoGLVcydpVK8UR",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/117652826",
@@ -700,11 +793,13 @@
       "duration": "01:08:33",
       "image": "https://static-1.ivoox.com/audios/f/a/9/2/fa921cdde7647dfe600f1524e09f2604_XXL.jpg",
       "categories": [
-        "Otros"
+        "Cómic"
       ],
-      "category": "Otros",
+      "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-3x03-otonal-audios-mp3_rf_117652826_1.html",
-      "spotify": "https://open.spotify.com/episode/3M8MYStYERzF7eSZet4oTZ"
+      "spotify": "https://open.spotify.com/episode/3M8MYStYERzF7eSZet4oTZ",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/117443158",
@@ -719,7 +814,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x03-remember-remember-the-audios-mp3_rf_117443158_1.html",
-      "spotify": "https://open.spotify.com/episode/3tWA9X2Eu3e52HDVJQaPFU"
+      "spotify": "https://open.spotify.com/episode/3tWA9X2Eu3e52HDVJQaPFU",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/117304502",
@@ -734,7 +831,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-3x02-superman-la-era-espacial-audios-mp3_rf_117304502_1.html",
-      "spotify": "https://open.spotify.com/episode/2biUFVl0NwFX91GopuPn4b"
+      "spotify": "https://open.spotify.com/episode/2biUFVl0NwFX91GopuPn4b",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/116994890",
@@ -749,7 +848,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x02-de-nadiya-popel-audios-mp3_rf_116994890_1.html",
-      "spotify": "https://open.spotify.com/episode/4ugrDBYiVK8q2oG9yRyhcW"
+      "spotify": "https://open.spotify.com/episode/4ugrDBYiVK8q2oG9yRyhcW",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/116839457",
@@ -764,7 +865,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-3x01-seven-audios-mp3_rf_116839457_1.html",
-      "spotify": "https://open.spotify.com/episode/1F8hzkV8tgJxxAvJz3WssO"
+      "spotify": "https://open.spotify.com/episode/1F8hzkV8tgJxxAvJz3WssO",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/116782749",
@@ -779,7 +882,9 @@
       ],
       "category": "Videojuegos",
       "ivoox": "https://www.ivoox.com/hdp-special-3x01-verano-videojueguil-audios-mp3_rf_116782749_1.html",
-      "spotify": "https://open.spotify.com/episode/7501k9srO8bAlV0Rwt87ui"
+      "spotify": "https://open.spotify.com/episode/7501k9srO8bAlV0Rwt87ui",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/116589982",
@@ -794,7 +899,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-3x01-regresan-tus-locos-audios-mp3_rf_116589982_1.html",
-      "spotify": "https://open.spotify.com/episode/4ELyVowcXk0G8d2XyqhLdR"
+      "spotify": "https://open.spotify.com/episode/4ELyVowcXk0G8d2XyqhLdR",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/111505008",
@@ -809,7 +916,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/macedonia-legumbres-2023-season-finale-audios-mp3_rf_111505008_1.html",
-      "spotify": "https://open.spotify.com/episode/6mGhAmjmS9pcNoWGqOpSi4"
+      "spotify": "https://open.spotify.com/episode/6mGhAmjmS9pcNoWGqOpSi4",
+      "historicalSection": "Macedonia de Legumbres",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/111206934",
@@ -824,7 +933,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x35-esto-es-todo-audios-mp3_rf_111206934_1.html",
-      "spotify": "https://open.spotify.com/episode/5JcEprCF8iDvysxW14iYH0"
+      "spotify": "https://open.spotify.com/episode/5JcEprCF8iDvysxW14iYH0",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/111059986",
@@ -835,11 +946,13 @@
       "duration": "02:21:27",
       "image": "https://static-2.ivoox.com/audios/3/3/9/e/339edec4370eccc0d89d23291e7f58a5_XXL.jpg",
       "categories": [
-        "Otros"
+        "Cine"
       ],
-      "category": "Otros",
+      "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-2x31-the-flash-audios-mp3_rf_111059986_1.html",
-      "spotify": "https://open.spotify.com/episode/5x8fLrmIuOg2ylY80EiOkY"
+      "spotify": "https://open.spotify.com/episode/5x8fLrmIuOg2ylY80EiOkY",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/110917368",
@@ -854,7 +967,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recuento-bajas-2x08-el-remador-toxico-audios-mp3_rf_110917368_1.html",
-      "spotify": "https://open.spotify.com/episode/3jzjmDwNNQI8rGZgPJ8FoN"
+      "spotify": "https://open.spotify.com/episode/3jzjmDwNNQI8rGZgPJ8FoN",
+      "historicalSection": "Recuento de Bajas",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/110723741",
@@ -869,7 +984,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x34-return-to-castle-audios-mp3_rf_110723741_1.html",
-      "spotify": "https://open.spotify.com/episode/2LuG1LUJETD1T3I8SEtUS9"
+      "spotify": "https://open.spotify.com/episode/2LuG1LUJETD1T3I8SEtUS9",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/110577811",
@@ -880,11 +997,13 @@
       "duration": "01:38:46",
       "image": "https://static-2.ivoox.com/audios/3/4/6/2/346263e7f00df1fb7679568684fd1c91_XXL.jpg",
       "categories": [
-        "Otros"
+        "Cómic"
       ],
-      "category": "Otros",
+      "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-2x30-el-armario-audios-mp3_rf_110577811_1.html",
-      "spotify": "https://open.spotify.com/episode/3KNe42RWujasQNv3SzRguW"
+      "spotify": "https://open.spotify.com/episode/3KNe42RWujasQNv3SzRguW",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/110446938",
@@ -899,7 +1018,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-2x08-el-gran-concurso-final-audios-mp3_rf_110446938_1.html",
-      "spotify": "https://open.spotify.com/episode/0Omp67pnxvuyH6pwCYuO5Z"
+      "spotify": "https://open.spotify.com/episode/0Omp67pnxvuyH6pwCYuO5Z",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/110231699",
@@ -914,7 +1035,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x33-otro-centenariazo-audios-mp3_rf_110231699_1.html",
-      "spotify": "https://open.spotify.com/episode/3hhd0IP0Z6wuymmupoZdnl"
+      "spotify": "https://open.spotify.com/episode/3hhd0IP0Z6wuymmupoZdnl",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/110076454",
@@ -929,7 +1052,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-2x29-american-history-x-audios-mp3_rf_110076454_1.html",
-      "spotify": "https://open.spotify.com/episode/39oaFRwcH1RcwbDg3adOje"
+      "spotify": "https://open.spotify.com/episode/39oaFRwcH1RcwbDg3adOje",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/110014555",
@@ -944,7 +1069,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/hdp-special-2x17-politoxicomania-friki-audios-mp3_rf_110014555_1.html",
-      "spotify": "https://open.spotify.com/episode/2aqkBaDKNEJqylKatMAvG2"
+      "spotify": "https://open.spotify.com/episode/2aqkBaDKNEJqylKatMAvG2",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/109729795",
@@ -959,7 +1086,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x32-regreso-a-la-audios-mp3_rf_109729795_1.html",
-      "spotify": "https://open.spotify.com/episode/1NrnLereJhOSS1StUT6SpO"
+      "spotify": "https://open.spotify.com/episode/1NrnLereJhOSS1StUT6SpO",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/109554730",
@@ -974,7 +1103,9 @@
       ],
       "category": "Videojuegos",
       "ivoox": "https://www.ivoox.com/neon-club-2x28-final-fantasy-viii-audios-mp3_rf_109554730_1.html",
-      "spotify": "https://open.spotify.com/episode/1ZhaHEPIbGVgiuCkDsC1rW"
+      "spotify": "https://open.spotify.com/episode/1ZhaHEPIbGVgiuCkDsC1rW",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/109406181",
@@ -989,7 +1120,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/tu-vicio-a-juicio-2x05-josejuanmartin23-audios-mp3_rf_109406181_1.html",
-      "spotify": "https://open.spotify.com/episode/0aMv40k13KYJuIPqzW2NNE"
+      "spotify": "https://open.spotify.com/episode/0aMv40k13KYJuIPqzW2NNE",
+      "historicalSection": "Tu Vicio a Juicio",
+      "programType": "Entrevistas"
     },
     {
       "id": "https://www.ivoox.com/109208399",
@@ -1004,7 +1137,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x31-el-chaiselonge-que-audios-mp3_rf_109208399_1.html",
-      "spotify": "https://open.spotify.com/episode/7HRFd8CqSQlipLOVan0iEZ"
+      "spotify": "https://open.spotify.com/episode/7HRFd8CqSQlipLOVan0iEZ",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/109051115",
@@ -1019,7 +1154,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-2x27-beta-ray-bill-audios-mp3_rf_109051115_1.html",
-      "spotify": "https://open.spotify.com/episode/4NNJ7IPetyULPnUf5bn67t"
+      "spotify": "https://open.spotify.com/episode/4NNJ7IPetyULPnUf5bn67t",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/108927685",
@@ -1034,7 +1171,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/hdp-special-2x16-aqui-estoy-porque-he-audios-mp3_rf_108927685_1.html",
-      "spotify": "https://open.spotify.com/episode/7CdY4f1LV8IVk8GXuRzEka"
+      "spotify": "https://open.spotify.com/episode/7CdY4f1LV8IVk8GXuRzEka",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/108720872",
@@ -1049,7 +1188,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x30-la-pareja-del-audios-mp3_rf_108720872_1.html",
-      "spotify": "https://open.spotify.com/episode/3HmLtbD8VmhFvNpt17Q2ny"
+      "spotify": "https://open.spotify.com/episode/3HmLtbD8VmhFvNpt17Q2ny",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/108573463",
@@ -1064,7 +1205,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/neon-club-2x26-the-peripheral-audios-mp3_rf_108573463_1.html",
-      "spotify": "https://open.spotify.com/episode/4mchen6LwDykXLMtLCKPaU"
+      "spotify": "https://open.spotify.com/episode/4mchen6LwDykXLMtLCKPaU",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/108453316",
@@ -1075,11 +1218,13 @@
       "duration": "01:40:41",
       "image": "https://static-2.ivoox.com/audios/9/b/1/2/9b1263e539ac92e587155c34eee778af_XXL.jpg",
       "categories": [
-        "Cómic"
+        "Otros"
       ],
-      "category": "Cómic",
+      "category": "Otros",
       "ivoox": "https://www.ivoox.com/recuento-bajas-2x07-batman-spawn-audios-mp3_rf_108453316_1.html",
-      "spotify": "https://open.spotify.com/episode/41XLRqtYl3uLEl2887OkYg"
+      "spotify": "https://open.spotify.com/episode/41XLRqtYl3uLEl2887OkYg",
+      "historicalSection": "Recuento de Bajas",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/108259187",
@@ -1094,7 +1239,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x29-ahora-disney-es-audios-mp3_rf_108259187_1.html",
-      "spotify": "https://open.spotify.com/episode/3iHVaTozZ00wLbbxGCPDU6"
+      "spotify": "https://open.spotify.com/episode/3iHVaTozZ00wLbbxGCPDU6",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/108102921",
@@ -1109,7 +1256,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-2x25-guardianes-galaxia-audios-mp3_rf_108102921_1.html",
-      "spotify": "https://open.spotify.com/episode/0UgbLUfPNmhjubHVQj5iih"
+      "spotify": "https://open.spotify.com/episode/0UgbLUfPNmhjubHVQj5iih",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/107969733",
@@ -1124,7 +1273,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/hdp-special-2x15-comprar-comics-es-un-audios-mp3_rf_107969733_1.html",
-      "spotify": "https://open.spotify.com/episode/4KNinurzrREOT1EP1VigDM"
+      "spotify": "https://open.spotify.com/episode/4KNinurzrREOT1EP1VigDM",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/107726884",
@@ -1139,7 +1290,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x28-el-futon-de-audios-mp3_rf_107726884_1.html",
-      "spotify": "https://open.spotify.com/episode/5WS2KRV5eBNdRd2XfzFg9Y"
+      "spotify": "https://open.spotify.com/episode/5WS2KRV5eBNdRd2XfzFg9Y",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/107645993",
@@ -1154,7 +1307,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-2x24-death-or-glory-audios-mp3_rf_107645993_1.html",
-      "spotify": "https://open.spotify.com/episode/6s9nt0hemy3uTwnOChJWK8"
+      "spotify": "https://open.spotify.com/episode/6s9nt0hemy3uTwnOChJWK8",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/107505251",
@@ -1169,7 +1324,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/hdp-special-2x14-dentro-star-audios-mp3_rf_107505251_1.html",
-      "spotify": "https://open.spotify.com/episode/2GjTIWFPFvanoOfTQjSHFQ"
+      "spotify": "https://open.spotify.com/episode/2GjTIWFPFvanoOfTQjSHFQ",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/107261367",
@@ -1184,7 +1341,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x27-netflix-tu-no-audios-mp3_rf_107261367_1.html",
-      "spotify": "https://open.spotify.com/episode/6OALDU4Wh0GONIp7Pr27dR"
+      "spotify": "https://open.spotify.com/episode/6OALDU4Wh0GONIp7Pr27dR",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/107153127",
@@ -1199,7 +1358,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/neon-club-2x23-the-mandalorian-t3-audios-mp3_rf_107153127_1.html",
-      "spotify": "https://open.spotify.com/episode/4jfJar8jRm1ih7qXyEryZb"
+      "spotify": "https://open.spotify.com/episode/4jfJar8jRm1ih7qXyEryZb",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/107050176",
@@ -1214,7 +1375,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/tu-vicio-a-juicio-2x04-multiverse-fans-audios-mp3_rf_107050176_1.html",
-      "spotify": "https://open.spotify.com/episode/657GdBsJVtB5F9elyBaY3P"
+      "spotify": "https://open.spotify.com/episode/657GdBsJVtB5F9elyBaY3P",
+      "historicalSection": "Tu Vicio a Juicio",
+      "programType": "Entrevistas"
     },
     {
       "id": "https://www.ivoox.com/106876737",
@@ -1229,7 +1392,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x26-como-estan-los-audios-mp3_rf_106876737_1.html",
-      "spotify": "https://open.spotify.com/episode/0PGXpEtlldkAOtj95Gm2sC"
+      "spotify": "https://open.spotify.com/episode/0PGXpEtlldkAOtj95Gm2sC",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/106774287",
@@ -1244,7 +1409,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-2x22-strange-adventures-audios-mp3_rf_106774287_1.html",
-      "spotify": "https://open.spotify.com/episode/2MkNNZxrehbyRBKigOcjhw"
+      "spotify": "https://open.spotify.com/episode/2MkNNZxrehbyRBKigOcjhw",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/106671121",
@@ -1259,7 +1426,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/hdp-special-2x13-de-aquellos-barros-estos-audios-mp3_rf_106671121_1.html",
-      "spotify": "https://open.spotify.com/episode/3lL6zgJGv9ILy7V0JvZ1lI"
+      "spotify": "https://open.spotify.com/episode/3lL6zgJGv9ILy7V0JvZ1lI",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/106498994",
@@ -1274,7 +1443,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x25-que-fuerza-audios-mp3_rf_106498994_1.html",
-      "spotify": "https://open.spotify.com/episode/2itAVhipo6rtHztxqdEXHY"
+      "spotify": "https://open.spotify.com/episode/2itAVhipo6rtHztxqdEXHY",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/106138799",
@@ -1289,7 +1460,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-2x21-as-bestas-audios-mp3_rf_106138799_1.html",
-      "spotify": "https://open.spotify.com/episode/2NcjLbqFJy47VXNMpELie1"
+      "spotify": "https://open.spotify.com/episode/2NcjLbqFJy47VXNMpELie1",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/106179336",
@@ -1304,7 +1477,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-2x07-el-gran-concurso-del-chiringuito-audios-mp3_rf_106179336_1.html",
-      "spotify": "https://open.spotify.com/episode/2bOKmhJaJkSKuXYAjHIyUR"
+      "spotify": "https://open.spotify.com/episode/2bOKmhJaJkSKuXYAjHIyUR",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/105936960",
@@ -1319,7 +1494,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x24-no-corras-papa-audios-mp3_rf_105936960_1.html",
-      "spotify": "https://open.spotify.com/episode/2BUFYrf2hP3RvmTXwuUYZm"
+      "spotify": "https://open.spotify.com/episode/2BUFYrf2hP3RvmTXwuUYZm",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/105476032",
@@ -1334,7 +1511,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/neon-club-2x20-the-last-of-us-audios-mp3_rf_105476032_1.html",
-      "spotify": "https://open.spotify.com/episode/6AZuTfjzzu0sXILZ4CIY0X"
+      "spotify": "https://open.spotify.com/episode/6AZuTfjzzu0sXILZ4CIY0X",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/105411835",
@@ -1349,7 +1528,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recuento-bajas-2x06-pelirrojos-is-the-audios-mp3_rf_105411835_1.html",
-      "spotify": "https://open.spotify.com/episode/0bZmMm3VwK8oe5mFCcvtEw"
+      "spotify": "https://open.spotify.com/episode/0bZmMm3VwK8oe5mFCcvtEw",
+      "historicalSection": "Recuento de Bajas",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/105248525",
@@ -1364,7 +1545,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x23-keniata-o-keniano-audios-mp3_rf_105248525_1.html",
-      "spotify": "https://open.spotify.com/episode/1PqQMgMCVaUOOYfSk8Z3vp"
+      "spotify": "https://open.spotify.com/episode/1PqQMgMCVaUOOYfSk8Z3vp",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/105146677",
@@ -1379,7 +1562,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-2x19-el-gran-lebowski-audios-mp3_rf_105146677_1.html",
-      "spotify": "https://open.spotify.com/episode/425h1os34yMOBWhpifblZW"
+      "spotify": "https://open.spotify.com/episode/425h1os34yMOBWhpifblZW",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/105046790",
@@ -1394,7 +1579,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/hdp-special-2x12-aqui-estoy-porque-he-audios-mp3_rf_105046790_1.html",
-      "spotify": "https://open.spotify.com/episode/1od2N0flZlHhuFspxRdBIw"
+      "spotify": "https://open.spotify.com/episode/1od2N0flZlHhuFspxRdBIw",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/104836591",
@@ -1409,7 +1596,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x22-2-tontos-muy-audios-mp3_rf_104836591_1.html",
-      "spotify": "https://open.spotify.com/episode/5vKaIz63d2zkeemycRBrid"
+      "spotify": "https://open.spotify.com/episode/5vKaIz63d2zkeemycRBrid",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/104759603",
@@ -1424,7 +1613,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-2x18-batman-caballero-blanco-audios-mp3_rf_104759603_1.html",
-      "spotify": "https://open.spotify.com/episode/2qbvqQIOrJCois2gGzszPi"
+      "spotify": "https://open.spotify.com/episode/2qbvqQIOrJCois2gGzszPi",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/104664263",
@@ -1439,7 +1630,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/tu-vicio-a-juicio-2x03-tinta-rosa-audios-mp3_rf_104664263_1.html",
-      "spotify": "https://open.spotify.com/episode/7b5TcQ4hKgy3rX9EE7i7uf"
+      "spotify": "https://open.spotify.com/episode/7b5TcQ4hKgy3rX9EE7i7uf",
+      "historicalSection": "Tu Vicio a Juicio",
+      "programType": "Entrevistas"
     },
     {
       "id": "https://www.ivoox.com/104508138",
@@ -1454,7 +1647,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x21-100-millones-de-audios-mp3_rf_104508138_1.html",
-      "spotify": "https://open.spotify.com/episode/0C90uhjJTCokdjgHj5MTMR"
+      "spotify": "https://open.spotify.com/episode/0C90uhjJTCokdjgHj5MTMR",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/104396125",
@@ -1469,7 +1664,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-2x17-todo-a-vez-audios-mp3_rf_104396125_1.html",
-      "spotify": "https://open.spotify.com/episode/6OFRfwuG4TZNtkgEVAcrST"
+      "spotify": "https://open.spotify.com/episode/6OFRfwuG4TZNtkgEVAcrST",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/104219546",
@@ -1484,7 +1681,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/hdp-special-2x11-el-sindrome-goonies-audios-mp3_rf_104219546_1.html",
-      "spotify": "https://open.spotify.com/episode/6z2LWtXgvhLMecVUv5gAb0"
+      "spotify": "https://open.spotify.com/episode/6z2LWtXgvhLMecVUv5gAb0",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/104131667",
@@ -1499,7 +1698,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x20-boys-voys-void-audios-mp3_rf_104131667_1.html",
-      "spotify": "https://open.spotify.com/episode/6xRxuctmyUOdJhckFE528s"
+      "spotify": "https://open.spotify.com/episode/6xRxuctmyUOdJhckFE528s",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/104017979",
@@ -1514,7 +1715,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-2x16-el-sheriff-babilonia-audios-mp3_rf_104017979_1.html",
-      "spotify": "https://open.spotify.com/episode/1JEYhxtGKZs0AJawrtdRWD"
+      "spotify": "https://open.spotify.com/episode/1JEYhxtGKZs0AJawrtdRWD",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/103907779",
@@ -1525,11 +1728,13 @@
       "duration": "01:37:45",
       "image": "https://static-1.ivoox.com/audios/0/f/5/8/0f58043690f9ec60c343917bd71280b1_XXL.jpg",
       "categories": [
-        "Otros"
+        "Series"
       ],
-      "category": "Otros",
+      "category": "Series",
       "ivoox": "https://www.ivoox.com/hdp-special-2x10-gatillazos-serie-audios-mp3_rf_103907779_1.html",
-      "spotify": "https://open.spotify.com/episode/66MQSC912AgekWNlCwacJD"
+      "spotify": "https://open.spotify.com/episode/66MQSC912AgekWNlCwacJD",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/103750336",
@@ -1544,7 +1749,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x19-skynetgpt-ha-llegado-audios-mp3_rf_103750336_1.html",
-      "spotify": "https://open.spotify.com/episode/2KxhOMS192PrXU8lQAGkQi"
+      "spotify": "https://open.spotify.com/episode/2KxhOMS192PrXU8lQAGkQi",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/103601523",
@@ -1559,7 +1766,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/neon-club-2x15-severance-separacion-audios-mp3_rf_103601523_1.html",
-      "spotify": "https://open.spotify.com/episode/7If9vZUYMmKiTa06P9z4Jp"
+      "spotify": "https://open.spotify.com/episode/7If9vZUYMmKiTa06P9z4Jp",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/103527839",
@@ -1574,7 +1783,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recuento-bajas-2x05-all-new-all-different-recuento-audios-mp3_rf_103527839_1.html",
-      "spotify": "https://open.spotify.com/episode/1suKD2hVKnv05vbspbJ8W1"
+      "spotify": "https://open.spotify.com/episode/1suKD2hVKnv05vbspbJ8W1",
+      "historicalSection": "Recuento de Bajas",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/103383442",
@@ -1589,7 +1800,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x18-harry-potter-audios-mp3_rf_103383442_1.html",
-      "spotify": "https://open.spotify.com/episode/0JCMQRaHbOrd1ZNKk18wrP"
+      "spotify": "https://open.spotify.com/episode/0JCMQRaHbOrd1ZNKk18wrP",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/103274375",
@@ -1604,7 +1817,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-2x14-las-tortugas-ninja-el-audios-mp3_rf_103274375_1.html",
-      "spotify": "https://open.spotify.com/episode/5SkwnTQwnty80NDlxyovnn"
+      "spotify": "https://open.spotify.com/episode/5SkwnTQwnty80NDlxyovnn",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/103181990",
@@ -1619,7 +1834,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-2x06-el-gran-concurso-alta-audios-mp3_rf_103181990_1.html",
-      "spotify": "https://open.spotify.com/episode/4J267XT5aNlFxt3hFgs8b4"
+      "spotify": "https://open.spotify.com/episode/4J267XT5aNlFxt3hFgs8b4",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/103009290",
@@ -1634,7 +1851,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x17-brokeback-billy-audios-mp3_rf_103009290_1.html",
-      "spotify": "https://open.spotify.com/episode/0eZmuRXlub9IXqGDzwmvPP"
+      "spotify": "https://open.spotify.com/episode/0eZmuRXlub9IXqGDzwmvPP",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/102896176",
@@ -1645,11 +1864,13 @@
       "duration": "01:23:40",
       "image": "https://static-1.ivoox.com/audios/0/d/b/2/0db2b9185fd4c0ffd0c90d9f3dc8f762_XXL.jpg",
       "categories": [
-        "Otros"
+        "Cómic"
       ],
-      "category": "Otros",
+      "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-2x13-carta-blanca-audios-mp3_rf_102896176_1.html",
-      "spotify": "https://open.spotify.com/episode/7l6AIn4wTfueYJRdlvguHs"
+      "spotify": "https://open.spotify.com/episode/7l6AIn4wTfueYJRdlvguHs",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/102792996",
@@ -1664,7 +1885,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-2x05-el-gran-concurso-trileros-audios-mp3_rf_102792996_1.html",
-      "spotify": "https://open.spotify.com/episode/5LBYvoAkUp6y3m0BqucdD5"
+      "spotify": "https://open.spotify.com/episode/5LBYvoAkUp6y3m0BqucdD5",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/102639453",
@@ -1675,11 +1898,13 @@
       "duration": "01:15:23",
       "image": "https://static-1.ivoox.com/audios/f/2/b/d/f2bd689a678a2dce0bcadc42c4753265_XXL.jpg",
       "categories": [
-        "Videojuegos"
+        "Otros"
       ],
-      "category": "Videojuegos",
+      "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x16-la-billy-audios-mp3_rf_102639453_1.html",
-      "spotify": "https://open.spotify.com/episode/6OOaNkluHGkjFM0FX0szEa"
+      "spotify": "https://open.spotify.com/episode/6OOaNkluHGkjFM0FX0szEa",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/102521753",
@@ -1694,7 +1919,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/tu-vicio-a-juicio-2x02-asgard-asylum-audios-mp3_rf_102521753_1.html",
-      "spotify": "https://open.spotify.com/episode/5IvWRZtsxMnwwFT1Tyiktx"
+      "spotify": "https://open.spotify.com/episode/5IvWRZtsxMnwwFT1Tyiktx",
+      "historicalSection": "Tu Vicio a Juicio",
+      "programType": "Entrevistas"
     },
     {
       "id": "https://www.ivoox.com/102432371",
@@ -1705,11 +1932,14 @@
       "duration": "01:13:27",
       "image": "https://static-1.ivoox.com/audios/b/8/8/8/b888d2df97d22cf56e35532c2bd5f043_XXL.jpg",
       "categories": [
-        "Cómic"
+        "Cine",
+        "Series"
       ],
-      "category": "Cómic",
+      "category": "Cine",
       "ivoox": "https://www.ivoox.com/hdp-special-2x09-la-dc-studios-de-audios-mp3_rf_102432371_1.html",
-      "spotify": "https://open.spotify.com/episode/2qF2WpBdYXxGBOQVlz4WfQ"
+      "spotify": "https://open.spotify.com/episode/2qF2WpBdYXxGBOQVlz4WfQ",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/102272531",
@@ -1720,11 +1950,13 @@
       "duration": "01:34:52",
       "image": "https://static-1.ivoox.com/audios/e/2/4/9/e2494edd45e93a11eb64082bb30fbc45_XXL.jpg",
       "categories": [
-        "Cine"
+        "Otros"
       ],
-      "category": "Cine",
+      "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x15-la-salita-del-audios-mp3_rf_102272531_1.html",
-      "spotify": "https://open.spotify.com/episode/2wUKjgoRbmC4xmaFl0lfrz"
+      "spotify": "https://open.spotify.com/episode/2wUKjgoRbmC4xmaFl0lfrz",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/102171260",
@@ -1739,7 +1971,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/hdp-special-2x08-crudites-vinetas-audios-mp3_rf_102171260_1.html",
-      "spotify": "https://open.spotify.com/episode/3FbiLIxIL214292LiumaHR"
+      "spotify": "https://open.spotify.com/episode/3FbiLIxIL214292LiumaHR",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/102073952",
@@ -1754,7 +1988,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recuento-bajas-2x04-resaca-navidena-audios-mp3_rf_102073952_1.html",
-      "spotify": "https://open.spotify.com/episode/2UUEsOxJPb31BFbPXd0vWS"
+      "spotify": "https://open.spotify.com/episode/2UUEsOxJPb31BFbPXd0vWS",
+      "historicalSection": "Recuento de Bajas",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/101907991",
@@ -1769,7 +2005,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x14-la-leyenda-del-audios-mp3_rf_101907991_1.html",
-      "spotify": "https://open.spotify.com/episode/77IMvJ1AOlRqrqbBJnFZAF"
+      "spotify": "https://open.spotify.com/episode/77IMvJ1AOlRqrqbBJnFZAF",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/101802831",
@@ -1784,7 +2022,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-2x12-parker-darwyn-cooke-audios-mp3_rf_101802831_1.html",
-      "spotify": "https://open.spotify.com/episode/54G6d2nZ8J8QSnKvuioIDf"
+      "spotify": "https://open.spotify.com/episode/54G6d2nZ8J8QSnKvuioIDf",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/101707554",
@@ -1795,11 +2035,13 @@
       "duration": "01:06:03",
       "image": "https://static-1.ivoox.com/audios/f/3/e/5/f3e57381e51f1d3cdaaeb4c8e1d6a716_XXL.jpg",
       "categories": [
-        "Cómic"
+        "Otros"
       ],
-      "category": "Cómic",
+      "category": "Otros",
       "ivoox": "https://www.ivoox.com/tu-vicio-a-juicio-2x01-kosmik-comics-audios-mp3_rf_101707554_1.html",
-      "spotify": "https://open.spotify.com/episode/4jncZ0j60258mQpmQ3PBNx"
+      "spotify": "https://open.spotify.com/episode/4jncZ0j60258mQpmQ3PBNx",
+      "historicalSection": "Tu Vicio a Juicio",
+      "programType": "Entrevistas"
     },
     {
       "id": "https://www.ivoox.com/101540113",
@@ -1814,7 +2056,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x13-clara-mente-hemos-vuelto-audios-mp3_rf_101540113_1.html",
-      "spotify": "https://open.spotify.com/episode/2tLxaeFP907ygmmT7iUFKY"
+      "spotify": "https://open.spotify.com/episode/2tLxaeFP907ygmmT7iUFKY",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/100802966",
@@ -1829,7 +2073,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/hdp-special-2x07-plan-editorial-panini-2023-audios-mp3_rf_100802966_1.html",
-      "spotify": "https://open.spotify.com/episode/6Tv1KIQAqLQ3n4ntRf6Hyl"
+      "spotify": "https://open.spotify.com/episode/6Tv1KIQAqLQ3n4ntRf6Hyl",
+      "historicalSection": "HdP Special",
+      "programType": "Plan editorial"
     },
     {
       "id": "https://www.ivoox.com/100723508",
@@ -1845,7 +2091,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/pulsiones-anuales-2022-lo-mejor-lo-audios-mp3_rf_100723508_1.html",
-      "spotify": "https://open.spotify.com/episode/5y4OmlFBCyBT9Cpno7XnWr"
+      "spotify": "https://open.spotify.com/episode/5y4OmlFBCyBT9Cpno7XnWr",
+      "historicalSection": "Pulsiones Anuales",
+      "programType": "Lo mejor del año"
     },
     {
       "id": "https://www.ivoox.com/100322855",
@@ -1861,7 +2109,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/pulsiones-anuales-2022-lo-mejor-lo-audios-mp3_rf_100322855_1.html",
-      "spotify": "https://open.spotify.com/episode/0UdH0y9TipUJEpf7sn4FFQ"
+      "spotify": "https://open.spotify.com/episode/0UdH0y9TipUJEpf7sn4FFQ",
+      "historicalSection": "Pulsiones Anuales",
+      "programType": "Lo mejor del año"
     },
     {
       "id": "https://www.ivoox.com/99983994",
@@ -1876,7 +2126,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/neon-club-2x11-andor-audios-mp3_rf_99983994_1.html",
-      "spotify": "https://open.spotify.com/episode/1rOwO1JCutJ8Gc94ejaiKg"
+      "spotify": "https://open.spotify.com/episode/1rOwO1JCutJ8Gc94ejaiKg",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/99857602",
@@ -1891,7 +2143,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-2x04-el-gran-concurso-olvidado-audios-mp3_rf_99857602_1.html",
-      "spotify": "https://open.spotify.com/episode/29M7Zbv0EVSvLMRNDegR2i"
+      "spotify": "https://open.spotify.com/episode/29M7Zbv0EVSvLMRNDegR2i",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/99252723",
@@ -1902,12 +2156,13 @@
       "duration": "01:01:35",
       "image": "https://static-1.ivoox.com/audios/4/7/4/6/4746ce179aa04ae84ee37eb3702c2e9e_XXL.jpg",
       "categories": [
-        "Cómic",
-        "Videojuegos"
+        "Otros"
       ],
-      "category": "Cómic",
+      "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x12-los-goty-y-audios-mp3_rf_99252723_1.html",
-      "spotify": "https://open.spotify.com/episode/4aB4DI9V8VWT2tpfeCdlnJ"
+      "spotify": "https://open.spotify.com/episode/4aB4DI9V8VWT2tpfeCdlnJ",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/98861484",
@@ -1922,7 +2177,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-2x10-nop-audios-mp3_rf_98861484_1.html",
-      "spotify": "https://open.spotify.com/episode/5beJWpsTQb8bqPDZL7o6om"
+      "spotify": "https://open.spotify.com/episode/5beJWpsTQb8bqPDZL7o6om",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/98418575",
@@ -1937,7 +2194,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/hdp-special-2x06-aqui-estoy-porque-he-audios-mp3_rf_98418575_1.html",
-      "spotify": "https://open.spotify.com/episode/4EFTWoYQXPWJBweKDcTavV"
+      "spotify": "https://open.spotify.com/episode/4EFTWoYQXPWJBweKDcTavV",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/97655381",
@@ -1952,7 +2211,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x11-mucho-trailer-y-audios-mp3_rf_97655381_1.html",
-      "spotify": "https://open.spotify.com/episode/1aOqYb64tUJTNKYCb9sKm2"
+      "spotify": "https://open.spotify.com/episode/1aOqYb64tUJTNKYCb9sKm2",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/97530734",
@@ -1963,11 +2224,13 @@
       "duration": "01:45:40",
       "image": "https://static-2.ivoox.com/audios/9/0/c/d/90cdefa2b0ed315f85e2ac43683ce12d_XXL.jpg",
       "categories": [
-        "Otros"
+        "Cómic"
       ],
-      "category": "Otros",
+      "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-2x09-hoy-es-buen-audios-mp3_rf_97530734_1.html",
-      "spotify": "https://open.spotify.com/episode/79BMJ0oJQPFYW2BqBl97Ch"
+      "spotify": "https://open.spotify.com/episode/79BMJ0oJQPFYW2BqBl97Ch",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/97273937",
@@ -1982,7 +2245,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recuento-bajas-2x03-confesiones-nocturnas-audios-mp3_rf_97273937_1.html",
-      "spotify": "https://open.spotify.com/episode/4soPOwbl0mvDuD38AQMv4h"
+      "spotify": "https://open.spotify.com/episode/4soPOwbl0mvDuD38AQMv4h",
+      "historicalSection": "Recuento de Bajas",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/97116322",
@@ -1997,7 +2262,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x10-bajo-fuego-audios-mp3_rf_97116322_1.html",
-      "spotify": "https://open.spotify.com/episode/7tkWlE0Iq7Pvd0rI2jS2n5"
+      "spotify": "https://open.spotify.com/episode/7tkWlE0Iq7Pvd0rI2jS2n5",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/97002760",
@@ -2012,7 +2279,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/neon-club-2x08-los-anillos-poder-audios-mp3_rf_97002760_1.html",
-      "spotify": "https://open.spotify.com/episode/6OsWhUToQW1mPP9zZ6F68z"
+      "spotify": "https://open.spotify.com/episode/6OsWhUToQW1mPP9zZ6F68z",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/96848275",
@@ -2023,11 +2292,14 @@
       "duration": "01:54:37",
       "image": "https://static-1.ivoox.com/audios/2/2/2/2/22223579c9a9fd32c2406beb7fda43bf_XXL.jpg",
       "categories": [
-        "Otros"
+        "Cine",
+        "Series"
       ],
-      "category": "Otros",
+      "category": "Cine",
       "ivoox": "https://www.ivoox.com/hdp-special-2x05-muere-exito-el-audios-mp3_rf_96848275_1.html",
-      "spotify": "https://open.spotify.com/episode/24DXOgHTAVQD9o8HzY2CGZ"
+      "spotify": "https://open.spotify.com/episode/24DXOgHTAVQD9o8HzY2CGZ",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/96689423",
@@ -2042,7 +2314,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x09-crisis-facturas-audios-mp3_rf_96689423_1.html",
-      "spotify": "https://open.spotify.com/episode/67uHEZCmBiBQXTqNTrI9Ou"
+      "spotify": "https://open.spotify.com/episode/67uHEZCmBiBQXTqNTrI9Ou",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/96605643",
@@ -2057,7 +2331,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-2x07-wakanda-forever-audios-mp3_rf_96605643_1.html",
-      "spotify": "https://open.spotify.com/episode/73hUVhgnCO5cOL7SWGqRCa"
+      "spotify": "https://open.spotify.com/episode/73hUVhgnCO5cOL7SWGqRCa",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/96518536",
@@ -2072,7 +2348,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/hdp-special-2x04-10-datos-frikis-sobre-audios-mp3_rf_96518536_1.html",
-      "spotify": "https://open.spotify.com/episode/1NQ01ZFXH4regDSxGzdeUu"
+      "spotify": "https://open.spotify.com/episode/1NQ01ZFXH4regDSxGzdeUu",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/96365034",
@@ -2087,7 +2365,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x08-murcia-te-queremos-audios-mp3_rf_96365034_1.html",
-      "spotify": "https://open.spotify.com/episode/3eXvNPqQxKR3l6kLOO7S7E"
+      "spotify": "https://open.spotify.com/episode/3eXvNPqQxKR3l6kLOO7S7E",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/96243046",
@@ -2102,7 +2382,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-2x06-murder-falcon-audios-mp3_rf_96243046_1.html",
-      "spotify": "https://open.spotify.com/episode/7iwukIKAc4mDBE2MUc7Mm3"
+      "spotify": "https://open.spotify.com/episode/7iwukIKAc4mDBE2MUc7Mm3",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/96130924",
@@ -2117,7 +2399,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-2x03-el-gran-concurso-reformulado-audios-mp3_rf_96130924_1.html",
-      "spotify": "https://open.spotify.com/episode/2235NXSyb5MIDX7eSSMUF0"
+      "spotify": "https://open.spotify.com/episode/2235NXSyb5MIDX7eSSMUF0",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/95789417",
@@ -2128,11 +2412,13 @@
       "duration": "01:23:55",
       "image": "https://static-1.ivoox.com/audios/b/3/4/6/b3460103f92fa0351be411215835ea67_XXL.jpg",
       "categories": [
-        "Cómic"
+        "Otros"
       ],
-      "category": "Cómic",
+      "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x07-madrid-comic-no-audios-mp3_rf_95789417_1.html",
-      "spotify": "https://open.spotify.com/episode/5Qku1e1rWRzXYv05ORXky4"
+      "spotify": "https://open.spotify.com/episode/5Qku1e1rWRzXYv05ORXky4",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/95499356",
@@ -2147,7 +2433,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/neon-club-2x05-la-casa-del-dragon-audios-mp3_rf_95499356_1.html",
-      "spotify": "https://open.spotify.com/episode/3LAUJdhaSjYLc6QJ31ZIOa"
+      "spotify": "https://open.spotify.com/episode/3LAUJdhaSjYLc6QJ31ZIOa",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/95367622",
@@ -2162,7 +2450,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recuento-bajas-2x02-demasiados-insomnes-cobardes-audios-mp3_rf_95367622_1.html",
-      "spotify": "https://open.spotify.com/episode/770m8t5fGy1hg08q7LNLM2"
+      "spotify": "https://open.spotify.com/episode/770m8t5fGy1hg08q7LNLM2",
+      "historicalSection": "Recuento de Bajas",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/95191628",
@@ -2173,11 +2463,13 @@
       "duration": "01:31:51",
       "image": "https://static-2.ivoox.com/audios/7/6/4/0/7640644c61cb3b46cbfa2a4dc7ade31d_XXL.jpg",
       "categories": [
-        "Cómic"
+        "Otros"
       ],
-      "category": "Cómic",
+      "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x06-la-resurrecion-del-audios-mp3_rf_95191628_1.html",
-      "spotify": "https://open.spotify.com/episode/6exsrD05YBnPXSuyvM8zDR"
+      "spotify": "https://open.spotify.com/episode/6exsrD05YBnPXSuyvM8zDR",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/95054232",
@@ -2188,11 +2480,13 @@
       "duration": "01:30:26",
       "image": "https://static-1.ivoox.com/audios/d/6/9/5/d695a0bea7a70c4114e3ff170a584994_XXL.jpg",
       "categories": [
-        "Videojuegos"
+        "Series"
       ],
-      "category": "Videojuegos",
+      "category": "Series",
       "ivoox": "https://www.ivoox.com/neon-club-2x04-cyberpunk-edgerunners-audios-mp3_rf_95054232_1.html",
-      "spotify": "https://open.spotify.com/episode/6xrJTYlpcry6UmnBH6QYAn"
+      "spotify": "https://open.spotify.com/episode/6xrJTYlpcry6UmnBH6QYAn",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/94938568",
@@ -2203,11 +2497,13 @@
       "duration": "01:29:02",
       "image": "https://static-1.ivoox.com/audios/2/6/5/9/2659f6994f2bf5aff87cb91300ebcfed_XXL.jpg",
       "categories": [
-        "Videojuegos"
+        "Otros"
       ],
-      "category": "Videojuegos",
+      "category": "Otros",
       "ivoox": "https://www.ivoox.com/hdp-special-2x03-10-preguntas-nostalgia-audios-mp3_rf_94938568_1.html",
-      "spotify": "https://open.spotify.com/episode/27u1GATgTFUlYi7rRSC5kX"
+      "spotify": "https://open.spotify.com/episode/27u1GATgTFUlYi7rRSC5kX",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/94760620",
@@ -2222,7 +2518,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x05-el-mierdaverso-audios-mp3_rf_94760620_1.html",
-      "spotify": "https://open.spotify.com/episode/6X541Ta53QepENeBeRTp5n"
+      "spotify": "https://open.spotify.com/episode/6X541Ta53QepENeBeRTp5n",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/94451523",
@@ -2237,7 +2535,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/neon-club-2x03-she-hulk-audios-mp3_rf_94451523_1.html",
-      "spotify": "https://open.spotify.com/episode/2FuvNOJIuziW9Oy3cSDT9i"
+      "spotify": "https://open.spotify.com/episode/2FuvNOJIuziW9Oy3cSDT9i",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/94337649",
@@ -2252,7 +2552,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/hdp-special-2x02-saga-predator-audios-mp3_rf_94337649_1.html",
-      "spotify": "https://open.spotify.com/episode/4ZDYy8dvMfbEY3xgInMxOQ"
+      "spotify": "https://open.spotify.com/episode/4ZDYy8dvMfbEY3xgInMxOQ",
+      "historicalSection": "HdP Special",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/94149101",
@@ -2267,7 +2569,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x04-entre-orgasmos-y-audios-mp3_rf_94149101_1.html",
-      "spotify": "https://open.spotify.com/episode/4m9qusorAKJuFcpOEu8K8K"
+      "spotify": "https://open.spotify.com/episode/4m9qusorAKJuFcpOEu8K8K",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/94015312",
@@ -2278,11 +2582,13 @@
       "duration": "01:28:34",
       "image": "https://static-2.ivoox.com/audios/5/8/4/c/584c5e7c31b658ce4a7804eadbda4209_XXL.jpg",
       "categories": [
-        "Otros"
+        "Cómic"
       ],
-      "category": "Otros",
+      "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-2x02-in-audios-mp3_rf_94015312_1.html",
-      "spotify": "https://open.spotify.com/episode/25eXzBAcK7XVpBuCjC6i6d"
+      "spotify": "https://open.spotify.com/episode/25eXzBAcK7XVpBuCjC6i6d",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/93898907",
@@ -2297,7 +2603,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-2x02-el-gran-concurso-cancelado-audios-mp3_rf_93898907_1.html",
-      "spotify": "https://open.spotify.com/episode/51wNfMln065AnSC4eIbkgi"
+      "spotify": "https://open.spotify.com/episode/51wNfMln065AnSC4eIbkgi",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/93700256",
@@ -2308,11 +2616,13 @@
       "duration": "01:23:12",
       "image": "https://static-1.ivoox.com/audios/c/4/c/b/c4cb33774dffdbb9c4b37223beaf9e5b_XXL.jpg",
       "categories": [
-        "Videojuegos"
+        "Otros"
       ],
-      "category": "Videojuegos",
+      "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x03-la-misa-del-audios-mp3_rf_93700256_1.html",
-      "spotify": "https://open.spotify.com/episode/1TCZq1oMkunFE1xXQVsPaC"
+      "spotify": "https://open.spotify.com/episode/1TCZq1oMkunFE1xXQVsPaC",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/93574878",
@@ -2327,7 +2637,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/neon-club-2x01-the-sandman-audios-mp3_rf_93574878_1.html",
-      "spotify": "https://open.spotify.com/episode/6Y0nl2Du59lZA4UPINPeu8"
+      "spotify": "https://open.spotify.com/episode/6Y0nl2Du59lZA4UPINPeu8",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/93288757",
@@ -2342,7 +2654,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/hdp-special-2x01-10-datos-frikis-sobre-audios-mp3_rf_93288757_1.html",
-      "spotify": "https://open.spotify.com/episode/62SZEOoG6fPhkUuBiFMMzi"
+      "spotify": "https://open.spotify.com/episode/62SZEOoG6fPhkUuBiFMMzi",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/93281411",
@@ -2357,7 +2671,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x02-desatame-o-enciendeme-audios-mp3_rf_93281411_1.html",
-      "spotify": "https://open.spotify.com/episode/000vYXY2l8DTiFaBhLuuRG"
+      "spotify": "https://open.spotify.com/episode/000vYXY2l8DTiFaBhLuuRG",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/93181179",
@@ -2372,7 +2688,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recuento-bajas-2x01-carta-amor-audios-mp3_rf_93181179_1.html",
-      "spotify": "https://open.spotify.com/episode/1vu4m8H3DTT4U2zum1ibsW"
+      "spotify": "https://open.spotify.com/episode/1vu4m8H3DTT4U2zum1ibsW",
+      "historicalSection": "Recuento de Bajas",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/92860259",
@@ -2387,7 +2705,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-2x01-el-gran-concurso-musical-o-audios-mp3_rf_92860259_1.html",
-      "spotify": "https://open.spotify.com/episode/6xsIuuo6tNvc8oIaSOgI6t"
+      "spotify": "https://open.spotify.com/episode/6xsIuuo6tNvc8oIaSOgI6t",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/92922477",
@@ -2402,7 +2722,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-2x01-segundas-partes-nunca-audios-mp3_rf_92922477_1.html",
-      "spotify": "https://open.spotify.com/episode/3dlsNGrLmU2HRNaVLDSPEi"
+      "spotify": "https://open.spotify.com/episode/3dlsNGrLmU2HRNaVLDSPEi",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/90144683",
@@ -2417,7 +2739,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recuento-bajas-1x03-season-finale-audios-mp3_rf_90144683_1.html",
-      "spotify": "https://open.spotify.com/episode/4cCWbTGMX6gAPu7SQhMpLe"
+      "spotify": "https://open.spotify.com/episode/4cCWbTGMX6gAPu7SQhMpLe",
+      "historicalSection": "Recuento de Bajas",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/90069788",
@@ -2432,7 +2756,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/hdp-special-1x07-the-boys-t3-audios-mp3_rf_90069788_1.html",
-      "spotify": "https://open.spotify.com/episode/71yhkrLlf2YcRa58kWC5dE"
+      "spotify": "https://open.spotify.com/episode/71yhkrLlf2YcRa58kWC5dE",
+      "historicalSection": "HdP Special",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/89938163",
@@ -2447,7 +2773,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-1x12-la-juventud-penetra-audios-mp3_rf_89938163_1.html",
-      "spotify": "https://open.spotify.com/episode/5O1eW2sMbgOayTmUhsdcCI"
+      "spotify": "https://open.spotify.com/episode/5O1eW2sMbgOayTmUhsdcCI",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/89832361",
@@ -2462,7 +2790,9 @@
       ],
       "category": "Videojuegos",
       "ivoox": "https://www.ivoox.com/hdp-special-1x06-nostalgia-videojueguil-audios-mp3_rf_89832361_1.html",
-      "spotify": "https://open.spotify.com/episode/1dJApXdzWfyR5pNyGyEQdy"
+      "spotify": "https://open.spotify.com/episode/1dJApXdzWfyR5pNyGyEQdy",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/89559805",
@@ -2477,7 +2807,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/hdp-special-1x05-obi-wan-kenobi-audios-mp3_rf_89559805_1.html",
-      "spotify": "https://open.spotify.com/episode/0e4GLB02Pw1r3D2JvuMUZN"
+      "spotify": "https://open.spotify.com/episode/0e4GLB02Pw1r3D2JvuMUZN",
+      "historicalSection": "HdP Special",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/89567835",
@@ -2492,7 +2824,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-1x11-sobrevolando-cancelacion-audios-mp3_rf_89567835_1.html",
-      "spotify": "https://open.spotify.com/episode/3ihG6cLbuGmmjYR5KGx2Ma"
+      "spotify": "https://open.spotify.com/episode/3ihG6cLbuGmmjYR5KGx2Ma",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/89524387",
@@ -2507,7 +2841,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/hdp-special-1x04-superheroica-billy-80-audios-mp3_rf_89524387_1.html",
-      "spotify": "https://open.spotify.com/episode/4Vgvq4e3X6WUvhJC6H4pkM"
+      "spotify": "https://open.spotify.com/episode/4Vgvq4e3X6WUvhJC6H4pkM",
+      "historicalSection": "HdP Special",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/89482515",
@@ -2522,7 +2858,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-1x08-audios-mp3_rf_89482515_1.html",
-      "spotify": "https://open.spotify.com/episode/3WDy4v6klxouTl0uQr3uU2"
+      "spotify": "https://open.spotify.com/episode/3WDy4v6klxouTl0uQr3uU2",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/89345828",
@@ -2537,7 +2875,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-1x10-dos-frikis-y-audios-mp3_rf_89345828_1.html",
-      "spotify": "https://open.spotify.com/episode/4riREEEcCN81u9RsG5d5BV"
+      "spotify": "https://open.spotify.com/episode/4riREEEcCN81u9RsG5d5BV",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/89280353",
@@ -2552,7 +2892,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-1x07-audios-mp3_rf_89280353_1.html",
-      "spotify": "https://open.spotify.com/episode/5t0Eo4IFSMAQI3NFpfeKeD"
+      "spotify": "https://open.spotify.com/episode/5t0Eo4IFSMAQI3NFpfeKeD",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/89180689",
@@ -2567,7 +2909,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recuento-bajas-1x02-el-tfg-de-audios-mp3_rf_89180689_1.html",
-      "spotify": "https://open.spotify.com/episode/7d7lLFx7qfVS4CH9JVsSnv"
+      "spotify": "https://open.spotify.com/episode/7d7lLFx7qfVS4CH9JVsSnv",
+      "historicalSection": "Recuento de Bajas",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/89028505",
@@ -2582,7 +2926,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-1x09-billy-mia-billy-audios-mp3_rf_89028505_1.html",
-      "spotify": "https://open.spotify.com/episode/7229qiZTfLgviw9d0kmshL"
+      "spotify": "https://open.spotify.com/episode/7229qiZTfLgviw9d0kmshL",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/88958231",
@@ -2593,11 +2939,13 @@
       "duration": "01:22:38",
       "image": "https://static-2.ivoox.com/audios/1/5/8/d/158de6669c13aa171bb6c053caca755b_XXL.jpg",
       "categories": [
-        "Otros"
+        "Cómic"
       ],
-      "category": "Otros",
+      "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-1x06-el-poder-del-fuego-audios-mp3_rf_88958231_1.html",
-      "spotify": "https://open.spotify.com/episode/2g46F6t5JKP4KSe6RBExUZ"
+      "spotify": "https://open.spotify.com/episode/2g46F6t5JKP4KSe6RBExUZ",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/88870239",
@@ -2612,7 +2960,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-1x06-audios-mp3_rf_88870239_1.html",
-      "spotify": "https://open.spotify.com/episode/5VJMS2XGonmkhPQeeTXLKJ"
+      "spotify": "https://open.spotify.com/episode/5VJMS2XGonmkhPQeeTXLKJ",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/88720982",
@@ -2627,7 +2977,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-1x08-te-queremos-tom-audios-mp3_rf_88720982_1.html",
-      "spotify": "https://open.spotify.com/episode/1ql5ojNWCl7zL1ZVUCG5jV"
+      "spotify": "https://open.spotify.com/episode/1ql5ojNWCl7zL1ZVUCG5jV",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/88621112",
@@ -2642,7 +2994,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-1x05-el-quinto-elemento-25-audios-mp3_rf_88621112_1.html",
-      "spotify": "https://open.spotify.com/episode/1klV5qbb6D2hvy2fTeO5Py"
+      "spotify": "https://open.spotify.com/episode/1klV5qbb6D2hvy2fTeO5Py",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/88548492",
@@ -2657,7 +3011,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-1x05-audios-mp3_rf_88548492_1.html",
-      "spotify": "https://open.spotify.com/episode/4SErh9aYnnr0Q1T3v7s5VH"
+      "spotify": "https://open.spotify.com/episode/4SErh9aYnnr0Q1T3v7s5VH",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/88394286",
@@ -2668,11 +3024,13 @@
       "duration": "01:31:45",
       "image": "https://static-2.ivoox.com/audios/3/3/1/3/33132defd719beeb36ae196b6e64fef3_XXL.jpg",
       "categories": [
-        "Cómic"
+        "Otros"
       ],
-      "category": "Cómic",
+      "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-1x07-el-evento-feo-audios-mp3_rf_88394286_1.html",
-      "spotify": "https://open.spotify.com/episode/2iPH4YVLdTZyOQBCZwrshe"
+      "spotify": "https://open.spotify.com/episode/2iPH4YVLdTZyOQBCZwrshe",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/88311971",
@@ -2687,7 +3045,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-1x04-audios-mp3_rf_88311971_1.html",
-      "spotify": "https://open.spotify.com/episode/60cQ6bjVW2ixZKmrCYkMko"
+      "spotify": "https://open.spotify.com/episode/60cQ6bjVW2ixZKmrCYkMko",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/88231265",
@@ -2702,7 +3062,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/hdp-special-1x03-el-pacificador-audios-mp3_rf_88231265_1.html",
-      "spotify": "https://open.spotify.com/episode/2fZNuBwz4H0oCTHKlkN3LP"
+      "spotify": "https://open.spotify.com/episode/2fZNuBwz4H0oCTHKlkN3LP",
+      "historicalSection": "HdP Special",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/88097889",
@@ -2717,7 +3079,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-1x06-los-ninos-se-audios-mp3_rf_88097889_1.html",
-      "spotify": "https://open.spotify.com/episode/2C1dVRW8XN4fMYgqYVWWZk"
+      "spotify": "https://open.spotify.com/episode/2C1dVRW8XN4fMYgqYVWWZk",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/88017362",
@@ -2732,7 +3096,9 @@
       ],
       "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-1x04-doctor-strange-el-audios-mp3_rf_88017362_1.html",
-      "spotify": "https://open.spotify.com/episode/57QTNgSVCkPZ7cF7oz4tDt"
+      "spotify": "https://open.spotify.com/episode/57QTNgSVCkPZ7cF7oz4tDt",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/87939194",
@@ -2747,7 +3113,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-1x03-audios-mp3_rf_87939194_1.html",
-      "spotify": "https://open.spotify.com/episode/1zPjWyjFka71sS1HbbnyVW"
+      "spotify": "https://open.spotify.com/episode/1zPjWyjFka71sS1HbbnyVW",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/87790207",
@@ -2762,7 +3130,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-1x05-willow-alarmas-y-audios-mp3_rf_87790207_1.html",
-      "spotify": "https://open.spotify.com/episode/2wppPFO0ySuTfhyz9iEHRK"
+      "spotify": "https://open.spotify.com/episode/2wppPFO0ySuTfhyz9iEHRK",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/87701396",
@@ -2777,7 +3147,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recuento-bajas-1x01-salvar-al-soldado-audios-mp3_rf_87701396_1.html",
-      "spotify": "https://open.spotify.com/episode/5DGTCXiNufgAJ5Hkr0RNSd"
+      "spotify": "https://open.spotify.com/episode/5DGTCXiNufgAJ5Hkr0RNSd",
+      "historicalSection": "Recuento de Bajas",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/87615694",
@@ -2788,11 +3160,13 @@
       "duration": "01:46:14",
       "image": "https://static-2.ivoox.com/audios/1/1/5/0/11503ed105e1dbf3b0038421ee9943fd_XXL.jpg",
       "categories": [
-        "Otros"
+        "Cine"
       ],
-      "category": "Otros",
+      "category": "Cine",
       "ivoox": "https://www.ivoox.com/hdp-special-1x02-10-anos-vengadores-audios-mp3_rf_87615694_1.html",
-      "spotify": "https://open.spotify.com/episode/1xzzulY9okz1LEU0AIMyW6"
+      "spotify": "https://open.spotify.com/episode/1xzzulY9okz1LEU0AIMyW6",
+      "historicalSection": "HdP Special",
+      "programType": "Tertulias"
     },
     {
       "id": "https://www.ivoox.com/87469703",
@@ -2807,7 +3181,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-1x04-cantera-vs-cartera-audios-mp3_rf_87469703_1.html",
-      "spotify": "https://open.spotify.com/episode/1K9T1YOMpqsH1aTw5QbHpJ"
+      "spotify": "https://open.spotify.com/episode/1K9T1YOMpqsH1aTw5QbHpJ",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/87334153",
@@ -2822,7 +3198,9 @@
       ],
       "category": "Videojuegos",
       "ivoox": "https://www.ivoox.com/neon-club-1x03-the-secret-of-monkey-audios-mp3_rf_87334153_1.html",
-      "spotify": "https://open.spotify.com/episode/55JZ6CQl2Z6H0NORnSfWIl"
+      "spotify": "https://open.spotify.com/episode/55JZ6CQl2Z6H0NORnSfWIl",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/87243245",
@@ -2837,7 +3215,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-1x02-audios-mp3_rf_87243245_1.html",
-      "spotify": "https://open.spotify.com/episode/0JcYPDABQKtCzH3JPHkn11"
+      "spotify": "https://open.spotify.com/episode/0JcYPDABQKtCzH3JPHkn11",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/87100199",
@@ -2852,7 +3232,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-1x03-audios-mp3_rf_87100199_1.html",
-      "spotify": "https://open.spotify.com/episode/2r03VsTaHvYVYJVXYY8oBa"
+      "spotify": "https://open.spotify.com/episode/2r03VsTaHvYVYJVXYY8oBa",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/87022893",
@@ -2867,7 +3249,9 @@
       ],
       "category": "Cómic",
       "ivoox": "https://www.ivoox.com/neon-club-1x02-hay-algo-matando-ninos-audios-mp3_rf_87022893_1.html",
-      "spotify": "https://open.spotify.com/episode/0sedFr1a18RrVba8oD13EZ"
+      "spotify": "https://open.spotify.com/episode/0sedFr1a18RrVba8oD13EZ",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/86950066",
@@ -2882,7 +3266,9 @@
       ],
       "category": "Series",
       "ivoox": "https://www.ivoox.com/hdp-special-1x01-caballero-luna-audios-mp3_rf_86950066_1.html",
-      "spotify": "https://open.spotify.com/episode/7prbKqxILxu6jTHpV6ACel"
+      "spotify": "https://open.spotify.com/episode/7prbKqxILxu6jTHpV6ACel",
+      "historicalSection": "HdP Special",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/86814390",
@@ -2897,7 +3283,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-1x02-audios-mp3_rf_86814390_1.html",
-      "spotify": "https://open.spotify.com/episode/0rNP4wXEGf2ZDvQb3yiZHT"
+      "spotify": "https://open.spotify.com/episode/0rNP4wXEGf2ZDvQb3yiZHT",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/86740945",
@@ -2908,12 +3296,13 @@
       "duration": "01:37:48",
       "image": "https://static-1.ivoox.com/audios/b/a/7/a/ba7a193670de5d418e6efb2eac80d406_XXL.jpg",
       "categories": [
-        "Series",
         "Cine"
       ],
-      "category": "Series",
+      "category": "Cine",
       "ivoox": "https://www.ivoox.com/neon-club-1x01-el-resplandor-the-shining-audios-mp3_rf_86740945_1.html",
-      "spotify": "https://open.spotify.com/episode/0riWBDksCemJlVlp9CZPOh"
+      "spotify": "https://open.spotify.com/episode/0riWBDksCemJlVlp9CZPOh",
+      "historicalSection": "Neon Club",
+      "programType": "Monográficos"
     },
     {
       "id": "https://www.ivoox.com/86668465",
@@ -2928,7 +3317,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/recordmendaciones-1x01-audios-mp3_rf_86668465_1.html",
-      "spotify": "https://open.spotify.com/episode/0X2gs5CSBDe69B9AFYEPYK"
+      "spotify": "https://open.spotify.com/episode/0X2gs5CSBDe69B9AFYEPYK",
+      "historicalSection": "Recordmendaciones",
+      "programType": "Magazine"
     },
     {
       "id": "https://www.ivoox.com/86521168",
@@ -2943,7 +3334,9 @@
       ],
       "category": "Otros",
       "ivoox": "https://www.ivoox.com/billy-40-1x01-audios-mp3_rf_86521168_1.html",
-      "spotify": "https://open.spotify.com/episode/7APssiHdpX2dKN8RBO3ogz"
+      "spotify": "https://open.spotify.com/episode/7APssiHdpX2dKN8RBO3ogz",
+      "historicalSection": "Billy de 40",
+      "programType": "Magazine"
     }
   ]
 }
