@@ -103,8 +103,46 @@
 .episode-tags{display:flex;flex-wrap:wrap;align-items:center;gap:5px;margin:4px 0}
 .season-pill{background:#f2f0ed;color:#625e59}
 .headphones-icon{flex-shrink:0}
+
+/* v1.0.1 — Modos claro, oscuro y MUY OSCURO. Los dos últimos comparten paleta. */
+.header-actions{display:flex;align-items:center;gap:7px;margin-left:auto}
+.theme-label{font-size:11px;font-weight:800;color:var(--muted)}
+.theme-mode{max-width:151px;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:var(--white);color:var(--ink);font-size:12px;font-weight:700;cursor:pointer}
+.theme-mode:focus-visible{outline:2px solid var(--red-dark);outline-offset:2px}
+.brand .very-dark-note{font-size:9px;letter-spacing:.15px;color:#d8b2b2;font-weight:600;text-transform:none}
+.brand .very-dark-note[hidden]{display:none}
+html[data-theme="dark"],html[data-theme="very-dark"]{color-scheme:dark;--paper:#17191d;--white:#24272e;--ink:#f1f1f2;--muted:#b5b6bd;--line:#42454d;--red-dark:#ff6a6a}
+html[data-theme="dark"] header,html[data-theme="very-dark"] header{background:#1c1e23f2}
+html[data-theme="dark"] .nav,html[data-theme="very-dark"] .nav{background:#24272e}
+html[data-theme="dark"] .feature,html[data-theme="very-dark"] .feature,
+html[data-theme="dark"] .card,html[data-theme="very-dark"] .card,
+html[data-theme="dark"] .beyond-card,html[data-theme="very-dark"] .beyond-card,
+html[data-theme="dark"] .platform-link,html[data-theme="very-dark"] .platform-link,
+html[data-theme="dark"] .dialog,html[data-theme="very-dark"] .dialog{background:var(--white);color:var(--ink)}
+html[data-theme="dark"] .hero p,html[data-theme="very-dark"] .hero p,
+html[data-theme="dark"] .feature p,html[data-theme="very-dark"] .feature p,
+html[data-theme="dark"] .about p,html[data-theme="very-dark"] .about p,
+html[data-theme="dark"] .beyond-card p,html[data-theme="very-dark"] .beyond-card p,
+html[data-theme="dark"] .dialog p,html[data-theme="very-dark"] .dialog p{color:var(--muted)}
+html[data-theme="dark"] .btn.secondary,html[data-theme="very-dark"] .btn.secondary,
+html[data-theme="dark"] .pagination button,html[data-theme="very-dark"] .pagination button,
+html[data-theme="dark"] .menu-toggle,html[data-theme="very-dark"] .menu-toggle,
+html[data-theme="dark"] .controls input,html[data-theme="very-dark"] .controls input,
+html[data-theme="dark"] .controls select,html[data-theme="very-dark"] .controls select{background:var(--white);color:var(--ink);border-color:var(--line)}
+html[data-theme="dark"] .btn:not(.secondary),html[data-theme="very-dark"] .btn:not(.secondary){background:#b72d32;color:#fff}
+html[data-theme="dark"] .nav .nav-cta,html[data-theme="very-dark"] .nav .nav-cta{background:#e6e6e8;color:#17191d}
+html[data-theme="dark"] .feature .episode-image-button,html[data-theme="very-dark"] .feature .episode-image-button,
+html[data-theme="dark"] .feature .episode-image-button img,html[data-theme="very-dark"] .feature .episode-image-button img,
+html[data-theme="dark"] .feature img,html[data-theme="very-dark"] .feature img{background:#fff}
+html[data-theme="dark"] .card img,html[data-theme="very-dark"] .card img{background:#30333b}
+html[data-theme="dark"] .dialog .close,html[data-theme="very-dark"] .dialog .close{background:#3a3d45;color:#fff}
+html[data-theme="dark"] .hero-art,html[data-theme="very-dark"] .hero-art{background:transparent}
+html[data-theme="dark"] .pill.season-pill,html[data-theme="very-dark"] .pill.season-pill{background:#3c4048;color:#e0e1e5}
+html[data-theme="very-dark"] #brand-tagline{color:#f3a0a0}
+@media(max-width:1050px){.header-actions{margin-left:auto}.top{gap:10px}}
+@media(max-width:580px){.wrap{width:min(1180px,calc(100% - 24px))}.brand{gap:7px}.brand img{width:40px;height:40px}.brand small{font-size:7px;letter-spacing:.35px}.brand .very-dark-note{font-size:7px}.theme-label{display:none}.theme-mode{max-width:110px;font-size:10px;padding:6px 3px}.menu-toggle{padding:7px 8px;font-size:20px}.top{gap:6px}.brand{min-width:0}.brand span{min-width:0}.brand b{font-size:10px}}
 </style></head><body>
-<header><div class="wrap top"><a class="brand" href="#inicio"><img alt="Logo de Hoy Dormimos Poco" src="assets/logo-hdp.jpg"/><span><b>HOY DORMIMOS POCO</b><small>PEOR QUE EL DESCAMPAO, MEJOR QUE TELECINCO</small></span></a><button class="menu-toggle" type="button" id="menu-toggle" aria-controls="site-nav" aria-expanded="false" aria-label="Abrir menú">☰</button><nav class="nav" id="site-nav" aria-label="Navegación principal"><a href="#inicio">Inicio</a><a href="#programas">Archivo de programas</a><a href="#escuchar">Dónde escucharnos</a><a href="#mas-alla">Más allá de HdP</a><a href="#contacto">Contacto</a></nav></div></header>
+<header><div class="wrap top"><a class="brand" href="#inicio"><img alt="Logo de Hoy Dormimos Poco" src="assets/logo-hdp.jpg"/><span><b>HOY DORMIMOS POCO</b><small id="brand-tagline">PEOR QUE EL DESCAMPAO, MEJOR QUE TELECINCO</small><small id="very-dark-note" class="very-dark-note" hidden>Vota con cabeza, te juegas tu futuro.</small></span></a><div class="header-actions"><label class="theme-label" for="theme-mode">Modo</label><select id="theme-mode" class="theme-mode" aria-label="Modo de visualización"><option value="light">☀ Claro</option><option value="dark">☾ Oscuro</option><option value="very-dark">☠ MUY OSCURO</option></select></div><button class="menu-toggle" type="button" id="menu-toggle" aria-controls="site-nav" aria-expanded="false" aria-label="Abrir menú">☰</button><nav class="nav" id="site-nav" aria-label="Navegación principal"><a href="#inicio">Inicio</a><a href="#programas">Archivo de programas</a><a href="#escuchar">Dónde escucharnos</a><a href="#mas-alla">Más allá de HdP</a><a href="#contacto">Contacto</a></nav></div></header>
 <main class="wrap" id="inicio"><section class="hero"><div><div class="eyebrow">CINE · VIDEOJUEGOS · SERIES · CÓMIC</div><h1>Hoy Dormimos <em>Poco</em></h1><p>Somos tu podcast de confianza del universo friki.</p><p>No somos los mejores en lo que hacemos, pero sí los más idiotas. <strong>¡Bienvenidos al surrealismo ilustrado, bienvenidos a HdP!</strong></p><div class="actions"><a class="btn" href="#escuchar"><svg class="headphones-icon" viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 14v-3a9 9 0 0 1 18 0v3"/><rect x="2" y="13" width="4" height="8" rx="2"/><rect x="18" y="13" width="4" height="8" rx="2"/></svg>Escuchar el podcast</a><a class="btn secondary" href="#programas">Explorar programas</a></div></div><div class="hero-art hero-art-qr"><img alt="Fotografía original del equipo de Hoy Dormimos Poco" src="assets/foto-original-hdp.jpg"/></div></section>
 <section class="section" id="ultimo"><div class="section-heading"><div><div class="eyebrow">ÚLTIMA PUBLICACIÓN</div><h2>Recién salido del horno</h2><p>¡Insomne! No te pierdas el último programa de HdP.</p></div></div><div class="feature" id="latest"><div class="status">Cargando último programa…</div></div></section>
 <section class="section" id="recomendacion"><div class="section-heading"><div><div class="eyebrow">DESCUBRE EL PODCAST</div><h2>¿Por dónde empiezo?</h2><p>Un programa al azar para mejorar tu día alimentando nuestro ego.</p></div><button class="btn secondary" id="shuffle">↻ Otro programa</button></div><div class="feature" id="recommended"><div class="status">Cargando recomendación…</div></div></section>
@@ -121,6 +159,26 @@
 <dialog class="dialog" id="details"><button aria-label="Cerrar" class="close" id="close">×</button><div class="dialog-top"><img alt="Portada del programa" id="detail-img"/><div><div class="eyebrow">EPISODIO DE HDP</div><h2 id="detail-title"></h2><span class="meta" id="detail-meta"></span></div></div><p id="detail-desc"></p><div class="detail-listen"><h3>Escúchanos en</h3><p>Enlaces directos a este episodio en las plataformas disponibles.</p><div class="platform-grid" id="detail-links"></div></div></dialog>
 <script src="data/catalogo-local.js"></script>
 <script>
+/* Tema guardado: MUY OSCURO comparte CSS con Oscuro y cambia el lema. */
+const themeMode=document.getElementById('theme-mode');
+const brandTagline=document.getElementById('brand-tagline');
+const veryDarkNote=document.getElementById('very-dark-note');
+const DEFAULT_TAGLINE='PEOR QUE EL DESCAMPAO, MEJOR QUE TELECINCO';
+const VERY_DARK_TAGLINE='PODCAST RIGUROSAMENTE CENSURADO POR VOX';
+function setTheme(mode){
+  if(!['light','dark','very-dark'].includes(mode))mode='light';
+  document.documentElement.dataset.theme=mode;
+  themeMode.value=mode;
+  brandTagline.textContent=mode==='very-dark'?VERY_DARK_TAGLINE:DEFAULT_TAGLINE;
+  veryDarkNote.hidden=mode!=='very-dark';
+  document.querySelector('meta[name="theme-color"]').content=mode==='light'?'#faf9f7':'#17191d';
+  try{localStorage.setItem('hdp-theme-mode',mode)}catch(e){}
+}
+let savedTheme='light';
+try{savedTheme=localStorage.getItem('hdp-theme-mode')||'light'}catch(e){}
+setTheme(savedTheme);
+themeMode.addEventListener('change',()=>setTheme(themeMode.value));
+
 const menuButton=document.getElementById('menu-toggle'),menuNav=document.getElementById('site-nav');
 menuButton.addEventListener('click',()=>{const open=menuNav.classList.toggle('is-open');menuButton.setAttribute('aria-expanded',String(open));menuButton.setAttribute('aria-label',open?'Cerrar menú':'Abrir menú');menuButton.textContent=open?'✕':'☰'});
 menuNav.addEventListener('click',ev=>{if(ev.target.closest('a')){menuNav.classList.remove('is-open');menuButton.setAttribute('aria-expanded','false');menuButton.setAttribute('aria-label','Abrir menú');menuButton.textContent='☰'}});
