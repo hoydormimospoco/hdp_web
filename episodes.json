@@ -30,7 +30,10 @@
         "terror",
         "comedia negra",
         "serie B",
-        "demonios"
+        "demonios",
+        "zombi",
+        "deadites",
+        "posesión demoníaca"
       ]
     },
     {
@@ -4249,5 +4252,5 @@
       "programType": "Magazine"
     }
   ],
-  "searchRevision": "1.0.2-r2"
+  "searchRevision": "1.0.3"
 }
