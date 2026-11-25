@@ -164,7 +164,8 @@
         "Panini",
         "editoriales",
         "superhéroes",
-        "novedades editoriales"
+        "novedades editoriales",
+        "DC"
       ]
     },
     {
@@ -303,7 +304,8 @@
         "Disney",
         "Tony Gilroy",
         "ciencia ficción",
-        "Rebelión"
+        "Rebelión",
+        "La Guerra de las Galaxias"
       ]
     },
     {
@@ -387,7 +389,8 @@
         "Panini",
         "editoriales",
         "superhéroes",
-        "novedades editoriales"
+        "novedades editoriales",
+        "DC"
       ]
     },
     {
@@ -528,7 +531,8 @@
       "spotify": "https://open.spotify.com/episode/09e1w5doCQQgn65qwxLWPk",
       "historicalSection": null,
       "programType": "Tertulias",
-      "searchKeywords": [
+      "searchKeywords": [],
+      "searchSecondaryKeywords": [
         "PC Fútbol 8",
         "regreso del podcast",
         "actualidad friki"
@@ -574,7 +578,8 @@
         "Black Label",
         "terror",
         "apocalipsis",
-        "cómic americano"
+        "cómic americano",
+        "DC"
       ]
     },
     {
@@ -926,7 +931,8 @@
         "Kara Zor-El",
         "Woman of Tomorrow",
         "superhéroes",
-        "ciencia ficción"
+        "ciencia ficción",
+        "DC"
       ]
     },
     {
@@ -1034,7 +1040,8 @@
         "Disney",
         "Dave Filoni",
         "Rebels",
-        "ciencia ficción"
+        "ciencia ficción",
+        "La Guerra de las Galaxias"
       ]
     },
     {
@@ -1118,7 +1125,8 @@
         "Mike Allred",
         "Superman Space Age",
         "Clark Kent",
-        "superhéroes"
+        "superhéroes",
+        "DC"
       ]
     },
     {
@@ -1260,7 +1268,10 @@
         "Ezra Miller",
         "Andy Muschietti",
         "superhéroes",
-        "multiverso"
+        "multiverso",
+        "DC",
+        "DCEU",
+        "Universo Extendido de DC"
       ]
     },
     {
@@ -1524,7 +1535,8 @@
       "spotify": "https://open.spotify.com/episode/7CdY4f1LV8IVk8GXuRzEka",
       "historicalSection": "HdP Special",
       "programType": "Tertulias",
-      "searchKeywords": [
+      "searchKeywords": [],
+      "searchSecondaryKeywords": [
         "Super Mario",
         "Nintendo",
         "Magic The Gathering",
@@ -1534,7 +1546,10 @@
         "MCU",
         "PC Fútbol 2024",
         "taquilla",
-        "Rotten Tomatoes"
+        "Rotten Tomatoes",
+        "Marvel Studios",
+        "Universo Cinematográfico de Marvel",
+        "Marvel Cinematic Universe"
       ]
     },
     {
@@ -1638,7 +1653,10 @@
         "Guardianes de la Galaxia",
         "Rocket",
         "superhéroes",
-        "ciencia ficción"
+        "ciencia ficción",
+        "Marvel",
+        "Universo Cinematográfico de Marvel",
+        "Marvel Cinematic Universe"
       ]
     },
     {
@@ -1729,7 +1747,8 @@
         "Lucasfilm",
         "Disney",
         "convenciones",
-        "Celebration"
+        "Celebration",
+        "La Guerra de las Galaxias"
       ]
     },
     {
@@ -1775,7 +1794,8 @@
         "Disney",
         "Jon Favreau",
         "Dave Filoni",
-        "ciencia ficción"
+        "ciencia ficción",
+        "La Guerra de las Galaxias"
       ]
     },
     {
@@ -1835,7 +1855,8 @@
         "Evan Shaner",
         "Adam Strange",
         "superhéroes",
-        "ciencia ficción"
+        "ciencia ficción",
+        "DC"
       ]
     },
     {
@@ -2045,7 +2066,8 @@
       "spotify": "https://open.spotify.com/episode/1od2N0flZlHhuFspxRdBIw",
       "historicalSection": "HdP Special",
       "programType": "Tertulias",
-      "searchKeywords": [
+      "searchKeywords": [],
+      "searchSecondaryKeywords": [
         "UCM",
         "Marvel",
         "MCU",
@@ -2053,7 +2075,10 @@
         "Super Mario",
         "Nintendo",
         "Rocky",
-        "La Tigresa de la Moraleja"
+        "La Tigresa de la Moraleja",
+        "Marvel Studios",
+        "Universo Cinematográfico de Marvel",
+        "Marvel Cinematic Universe"
       ]
     },
     {
@@ -2095,7 +2120,8 @@
         "Batman White Knight",
         "Joker",
         "Bruce Wayne",
-        "superhéroes"
+        "superhéroes",
+        "DC"
       ]
     },
     {
@@ -2223,7 +2249,8 @@
         "DC Comics",
         "Irak",
         "guerra",
-        "thriller"
+        "thriller",
+        "DC"
       ]
     },
     {
@@ -2486,7 +2513,8 @@
         "DCU",
         "James Gunn",
         "universo cinematográfico DC",
-        "superhéroes"
+        "superhéroes",
+        "DC"
       ]
     },
     {
@@ -2721,7 +2749,8 @@
         "Disney",
         "Tony Gilroy",
         "ciencia ficción",
-        "Rebelión"
+        "Rebelión",
+        "La Guerra de las Galaxias"
       ]
     },
     {
@@ -2800,7 +2829,8 @@
       "spotify": "https://open.spotify.com/episode/4EFTWoYQXPWJBweKDcTavV",
       "historicalSection": "HdP Special",
       "programType": "Tertulias",
-      "searchKeywords": [
+      "searchKeywords": [],
+      "searchSecondaryKeywords": [
         "películas navideñas",
         "Navidad",
         "YouTube",
@@ -2933,7 +2963,10 @@
         "MCU",
         "universo cinematográfico Marvel",
         "Vengadores",
-        "superhéroes"
+        "superhéroes",
+        "Marvel",
+        "Universo Cinematográfico de Marvel",
+        "Marvel Cinematic Universe"
       ]
     },
     {
@@ -2978,7 +3011,10 @@
         "Ryan Coogler",
         "Wakanda",
         "Namor",
-        "superhéroes"
+        "superhéroes",
+        "Marvel",
+        "Universo Cinematográfico de Marvel",
+        "Marvel Cinematic Universe"
       ]
     },
     {
@@ -2997,7 +3033,8 @@
       "spotify": "https://open.spotify.com/episode/1NQ01ZFXH4regDSxGzdeUu",
       "historicalSection": "HdP Special",
       "programType": "Tertulias",
-      "searchKeywords": [
+      "searchKeywords": [],
+      "searchSecondaryKeywords": [
         "cuestionario friki",
         "equipo HdP",
         "frikismo",
@@ -3239,7 +3276,10 @@
         "MCU",
         "Tatiana Maslany",
         "Disney",
-        "superhéroes"
+        "superhéroes",
+        "Marvel",
+        "Universo Cinematográfico de Marvel",
+        "Marvel Cinematic Universe"
       ]
     },
     {
@@ -3367,7 +3407,8 @@
         "Sueño",
         "Morfeo",
         "fantasía",
-        "adaptación de cómic"
+        "adaptación de cómic",
+        "DC"
       ]
     },
     {
@@ -3386,7 +3427,8 @@
       "spotify": "https://open.spotify.com/episode/62SZEOoG6fPhkUuBiFMMzi",
       "historicalSection": "HdP Special",
       "programType": "Tertulias",
-      "searchKeywords": [
+      "searchKeywords": [],
+      "searchSecondaryKeywords": [
         "cuestionario friki",
         "equipo HdP",
         "frikismo",
@@ -3570,7 +3612,8 @@
         "Darth Vader",
         "Lucasfilm",
         "Disney",
-        "ciencia ficción"
+        "ciencia ficción",
+        "La Guerra de las Galaxias"
       ]
     },
     {
@@ -3858,7 +3901,10 @@
         "John Cena",
         "HBO",
         "Escuadrón Suicida",
-        "superhéroes"
+        "superhéroes",
+        "DC",
+        "DCEU",
+        "Universo Extendido de DC"
       ]
     },
     {
@@ -3904,7 +3950,10 @@
         "Benedict Cumberbatch",
         "Bruja Escarlata",
         "multiverso",
-        "superhéroes"
+        "superhéroes",
+        "Marvel",
+        "Universo Cinematográfico de Marvel",
+        "Marvel Cinematic Universe"
       ]
     },
     {
@@ -3981,7 +4030,10 @@
         "Avengers",
         "Vengadores",
         "superhéroes",
-        "universo cinematográfico Marvel"
+        "universo cinematográfico Marvel",
+        "Marvel",
+        "Universo Cinematográfico de Marvel",
+        "Marvel Cinematic Universe"
       ]
     },
     {
@@ -4113,7 +4165,10 @@
         "Marc Spector",
         "Disney",
         "superhéroes",
-        "mitología egipcia"
+        "mitología egipcia",
+        "Marvel",
+        "Universo Cinematográfico de Marvel",
+        "Marvel Cinematic Universe"
       ]
     },
     {
@@ -4193,5 +4248,6 @@
       "historicalSection": "Billy de 40",
       "programType": "Magazine"
     }
-  ]
+  ],
+  "searchRevision": "1.0.2-r2"
 }
